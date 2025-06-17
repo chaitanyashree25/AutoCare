@@ -1,0 +1,857 @@
+0df6505b7ad133c240f2df18714902957c6faba2
+2adefa9ad6438f163cff149e63d18f1597f030d1
+3d6510b37c9cad77af127e286b8ffe420c7029fa
+a93f8e70d755abf2b2d0948164e88f72bc421c62
+d4545033acf1bb123f1c48f9a84277c8686f31e5
+d90f262e0eb9541df694ce5ba506223a726d8500
+def482f3b47a0185334b84acddfa4bbb42dcf899
+f73190e8c0ed7c100802ac8fa9f1ccd37509fac1
+1b73bd33834eb04ddb92efa9909c6544e84760d6 
+34e3a7c4cdd255a5fd2f2801e1c0c646bb59a280 
+7d024444ca91fa9769a0274d0566b9176720bb8c 
+82e0d85f7fa07573fa667be902938d93a3a227b2 
+947b36cdb5e8b1cf7ac7d8bab6e0ad8819681918 
+b039d500bd594f3499af25e8ded7a03265cf0eb5 
+b5fd607219edad3339d915d647461673934d3af9 
+e8b19965bc2083ce69d669c6a400a0bc5be2ab71 
+e9846232d5aec71d66aeaee158fbb8fa5414fffd .IMG_2007.jpeg.icloud
+3b41682ac579fafb665abb4dfcdaa6aaaa712184 .gitattributes
+5ff6309b7199129c1afe4f4ec1906e640bec48c6 .gitignore
+17e537866bc312a5217dc49094875a10f404e217 .idea
+42e31ed50ec10bf49b3e117c91e7197857ecfc3f .idea
+26d33521af10bcc7fd8cea344038eaaeb78d0ef5 .idea/.gitignore
+aa00ffab7828f4818589659c804ec2cfd99baed3 .idea/encodings.xml
+fdc35ea8167a5fae3f335ef1d46269eaebfa6b03 .idea/misc.xml
+94a25f7f4cb416c083d265558da75d457237d671 .idea/vcs.xml
+e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 .localized
+ba2ddeb1ee5d0c7c2a3190b0d7e49779364aaec7 .mvn
+3fd5072b5f47507f9aa0daf2f9a0b4bd90582b84 .mvn/wrapper
+2f94e6169877eb0a98645c50fe64a31d84823139 .mvn/wrapper/maven-wrapper.properties
+a117ad3997d0497a1616d6fbb774707f4e05d94b 3.0+List+Elements.zip
+d897f51e9a90370377223bdcc48ca31729125420 Chaitanyashree_Java_Resume_Template.pdf
+c34e2072e673ba95bda3cf2fe845b9874da446da HDFC Bank CardNet.pdf
+0e465581a7bb058c8e1751d844bfea1fa2af2b24 HELP.md
+29c9575d05e7b1c9a25363451cc80fcc693d1167 Java Projects
+aff2c78f50f373fab54bda75b2e064d6983b1333 Java Projects
+d5b80550db0e71fb0d2a5831c99b839e873073fc Java Projects
+edfbaf16b54e23d24d02ebb6b5346759de6f109d Java Projects
+f3b0b1ef6c8d2cceaaa91bc8b8e45918f6cb4c89 Java Projects
+318614805dbdc1dc75d4f5b2dc3f10009a45f6be Java Projects/TaskManagement
+f05b2d101bcca2d2318602e791c6c907aabea559 Java Projects/TaskManagement/.idea
+481a3f14ff253db4c67b5de1f2067e0d0a33107f Java Projects/TaskManagement/.idea/vcs.xml
+97039616cda8337564bbf9929392809cac1b10bd Java Projects/TaskManagement/.idea/workspace.xml
+1adf4263e24dc423a5643c2b2606118d430f97b6 Java Projects/autocarepro
+91ab9a8e4f2c923900aaef0d3c028dfca2283c25 Java Projects/autocarepro
+ee1a70aa509862820f357091840aa02615fbf405 Java Projects/autocarepro
+662c50f7bc18f9833bf8ae9677825ad26365beab Java Projects/autocarepro/src
+c400de86c3c321e7d1eff4d2336424c808ba4714 Java Projects/autocarepro/src
+e172c53017ae4c47986b656018a8c1efc6b7ac0d Java Projects/autocarepro/src
+056d6da41a62c4b309e968cc68bca49d5b6866d2 Java Projects/autocarepro/src/main
+8f6fad63dafb022b3e29537f7269b1d5e60fb3e4 Java Projects/autocarepro/src/main
+f1e889bb839662609439fc43c12f3dae0f8b980a Java Projects/autocarepro/src/main
+1054d6e0448e9695d4743ec56fab7b72303ed27f Java Projects/autocarepro/src/main/java
+c3dd224f957a29bc772d271682cc4e5b18383f8b Java Projects/autocarepro/src/main/java
+ca28de540cdac69d10c38472726e5192b36b1ed8 Java Projects/autocarepro/src/main/java
+04cd17b066a1d0f261074a1feef24dbf7d52d8fe Java Projects/autocarepro/src/main/java/com
+2959703b31f0ea8add887de27d6492e062b982ac Java Projects/autocarepro/src/main/java/com
+b4f16a9101331defcecf67e29a408fab6c2519d3 Java Projects/autocarepro/src/main/java/com
+14f9d815f19818f87a83083332cd81a2cfdf9347 Java Projects/autocarepro/src/main/java/com/autocarepro
+419da68314c6e3fa0b9b83ecfc8aedac56bd42d0 Java Projects/autocarepro/src/main/java/com/autocarepro
+5507004517beb38c6f80a40a31f6e121e5c87e94 Java Projects/autocarepro/src/main/java/com/autocarepro
+98fe0905ad12ab88283ab8fb1160e5dbfd62eb26 Java Projects/autocarepro/src/main/java/com/autocarepro/model
+c93b91809371c1eb73a2a427276a9d8cd5022f8e Java Projects/autocarepro/src/main/java/com/autocarepro/model/Customer.java
+893c4d907136b6e1e0deae9925315d13000068ea Java Projects/autocarepro/src/main/java/com/autocarepro/repository
+9dc3b28d71f18119a9879dfe26e4fc702bce3591 Java Projects/autocarepro/src/main/java/com/autocarepro/repository/CustomerRepository.java
+3d1c991ea0ac09a3ea8fdd7b59705d8718fbdb56 Java Projects/autocarepro/src/main/java/com/autocarepro/service
+56ab027affdbc1a66f467b02ee5618a033c546d6 Java Projects/autocarepro/src/main/java/com/autocarepro/service/CustomerService.java
+3e9cba61c8ff8d77b2816836bdaf870d546f10ae Java Projects/school-management
+5153410073f6652e60bfab4e88216a11e27e9e1c Java Projects/school-management
+e31d275987d81cccc55a790fa66049f6e902fc92 Java Projects/school-management (1).zip
+0749fe441daf0ad401fed3492e168d8e94452ce7 Java Projects/school-management/src
+1c80b0ba334b21b7a8d1ab8f6538b619a674fced Java Projects/school-management/src
+8a507445f3028470c99ba78f8dcb4bfdf9ec0c1d Java Projects/school-management/src/main
+a920fdb742c931551fcc4aebdc24aed1f2db074b Java Projects/school-management/src/main
+b5673a10af4073f474c6a352a4fecd62b214ad10 Java Projects/school-management/src/main/java
+fc5d07bd7c1118486527371009da0951c6ff15d8 Java Projects/school-management/src/main/java
+5e3686f5846bcd0eef186c36cd2436646f383f61 Java Projects/school-management/src/main/java/com
+98c002d0d33a6b2f63de9c2338fe803d1de7d2e8 Java Projects/school-management/src/main/java/com
+63cbb0ed232013379721fefa1914557d733e1731 Java Projects/school-management/src/main/java/com/school
+bff7be70d1eedc41996baf060e6d54c0492c6a47 Java Projects/school-management/src/main/java/com/school
+1631f381e384d1d1d5cc3bd5ff66686026493cd8 Java Projects/school-management/src/main/java/com/school/school_management
+3e1089a5292fc730cbd9b5bbac996679dab000d8 Java Projects/school-management/src/main/java/com/school/school_management
+0e5c41f0805d99c3d03e287b8528cf5bb222f28f Java Projects/school-management/src/main/java/com/school/school_management/model
+26baee0efb44f6f360421d0e30df9fcb16125bfe Java Projects/school-management/src/main/java/com/school/school_management/model
+25dbeae2559fc009f465ac6c463ee4628a371399 Java Projects/school-management/src/main/java/com/school/school_management/model/Student.java
+8c4d4eb4f59daa13fad44a7d5d82ecb33a0d7fc9 Java Projects/school-management/src/main/java/com/school/school_management/model/Student.java
+949cb2f9a98d5b829ccaf50742bd168aa04cbf1a Java Projects/school-management/src/main/java/com/school/school_management/repository
+1644cdc9af4c5c930559a449f6e329637d8fbef5 Java Projects/school-management/src/main/java/com/school/school_management/repository/StudentRepository.java
+32fe84ebf0f064a45c587ce2d876ffcc2e677e27 Java Projects/school-management/src/main/java/com/school/school_management/service
+68a661b301d9cf8f76df9d6ba53333d169d937a5 Java Projects/school-management/src/main/java/com/school/school_management/service
+87d57279bd298f02b2c93f06d8781882fcc27e8a Java Projects/school-management/src/main/java/com/school/school_management/service/StudentService.java
+9010bcf440529ae3a53382cc43ebedbd798de5c7 Java Projects/school-management/src/main/java/com/school/school_management/service/StudentService.java
+76fc46b3643b1400209653e87b29a54a5d7204a9 JavaProjects
+9ec46323fc3d69d8dd652ddbb59487ba7fd4c686 JavaProjects/DSA
+8bdf6ac6ae74b56ce2de7394c1c587fc83087954 JavaProjects/DSA/Array_Basic.java
+6ba7ee861df931773ea46f4d2611eb544f2a67c8 KVKN2424-13160279I6Y8LRP1YR.pdf
+be4a57260967d4b7d85d17210e1ba027b7060f2d KVKN2424-13160279JR7JIJM4D8.pdf
+eb9a4661878427950d576ebbbd3c95b2ad903a0f PremiumReceipt_PR7832368500012425_.pdf
+5c8219f9bbec7685504c6cff5e8b5ccbe6071e12 WebDevelopment_2024
+db21d43fb8c97e43de24b78c2b7a99fbe3c2012f WebDevelopment_2024
+8f811ada26d481d416d2036cb81c20eac74fdc34 WebDevelopment_2024/first.html
+11a932c2632295c09fa56051177cf2da3a9be03b WebDevelopment_2024/html-css-course-master
+6ad3a322a6739778cc9e4f8181e4e5284020823a WebDevelopment_2024/html-css-course-master
+88e3430a5471965ef2854cd840efb4783477c304 WebDevelopment_2024/html-css-course-master/README.md
+08f3ad383d27537a2672094af860d21feaa2cf7f WebDevelopment_2024/html-css-course-master/final
+a422be414b3fc956804613e70862c711f7e11b08 WebDevelopment_2024/html-css-course-master/final
+0ae92749b66fb2d27d84468e0cc2d9d4c2df44d5 WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals
+ce974e1301044d8414a2f428f5820610cc053d64 WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals
+3b9b6e3289b2a77d499d3ea435589aebc6e2fbd9 WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals/blog.html
+ae01eb7237cf5aacb0a707a6b6bbf7d5213b4caf WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals/content.txt
+3aecb59199b5642393db2f3a5743e146ca0d075c WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals/img
+7d3c964ffb3ff75316f5cc12b2b73c6513b805e9 WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals/img
+319f22da5ff1e81ed4c5bff92cb3cab54e32fa8c WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals/img/challenges.jpg
+7830c94c60a7d555506a4e39a95e49bb727960e7 WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals/img/laura-jones.jpg
+df3005e63d36593b7a1370af8dfc2b4d9225970b WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals/img/post-img.jpg
+376e2e7b3e34b4326e28c044e2b00e1eea371d97 WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals/img/related-1.jpg
+0e9e7ea1813ea80bd8843b0552cf04097755725c WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals/img/related-2.jpg
+9c5723b7114fd36b748174879f55ae102e418a90 WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals/img/related-3.jpg
+df8a623a80b4170e9bd393b30901a5fe6efedd29 WebDevelopment_2024/html-css-course-master/final/02-HTML-Fundamentals/index.html
+0c048fb659c6ac83c7ab1933bea5fd8629dc37f3 WebDevelopment_2024/html-css-course-master/final/03-CSS-Fundamentals
+10925b77db739cbe274031e70b091be4783067b2 WebDevelopment_2024/html-css-course-master/final/03-CSS-Fundamentals
+0b530b3d1322c75f14fc11c4fef8af0c26c809cc WebDevelopment_2024/html-css-course-master/final/03-CSS-Fundamentals/img
+e93c9cf7dd2d00dfd48adb25e0e3d27094bb3dd2 WebDevelopment_2024/html-css-course-master/final/03-CSS-Fundamentals/img
+1c8c28cdcc95445328d6ce1700fad17378019430 WebDevelopment_2024/html-css-course-master/final/04-CSS-Layouts
+acf3b9bf2f7d8a25271db492ec0b0c9255ce2524 WebDevelopment_2024/html-css-course-master/final/04-CSS-Layouts
+93ec410fcfc254d67173e6c290aebabfe00d8a31 WebDevelopment_2024/html-css-course-master/final/04-CSS-Layouts/flexbox.html
+89b3a1328358d66dbe9337e4f71824474938ff13 WebDevelopment_2024/html-css-course-master/final/04-CSS-Layouts/img
+e3ae0e8cee8d8dcc308969def3d1b84fb9ed917e WebDevelopment_2024/html-css-course-master/final/04-CSS-Layouts/img
+33a6af10cc8f467d21d4ef5bf555f2ff09010836 WebDevelopment_2024/html-css-course-master/final/04-CSS-Layouts/index.html
+2c2b9eb90e9d478c47d92064eab82c295380bb5b WebDevelopment_2024/html-css-course-master/final/04-CSS-Layouts/style.css
+0cb4d60f94ddd585b3993f95191a5363a7f81604 WebDevelopment_2024/html-css-course-master/final/05-Design
+9a9c40af49698004606030381f32f79429ea70f9 WebDevelopment_2024/html-css-course-master/final/05-Design
+3100aa168b834d179707d1faeab13c7d537ad687 WebDevelopment_2024/html-css-course-master/final/05-Design/chair-1.jpg
+33c8d854ca8e45f38c8c4bf719bb26418ef97824 WebDevelopment_2024/html-css-course-master/final/05-Design/chair-2.jpg
+f57fcf10e130d099bdb1ceb073d43e75156f2e5b WebDevelopment_2024/html-css-course-master/final/05-Design/chair-3.jpg
+2d1d4f851fe55387687d955ad59cee924ce0e3b4 WebDevelopment_2024/html-css-course-master/final/05-Design/customers.jpg
+5532819b198b95cd810d66ad18a800a46e7d79a8 WebDevelopment_2024/html-css-course-master/final/05-Design/hero.jpg
+0c714089b9187063b813b31ea32429298231b86e WebDevelopment_2024/html-css-course-master/final/05-Design/index.html
+79643b54888fff71aa93b997103916d1b5de660d WebDevelopment_2024/html-css-course-master/final/05-Design/style.css
+985dd079b09041c6c5383c7cc2659562ccf5a80d WebDevelopment_2024/html-css-course-master/final/06-Components
+a41520b5d252246010e64d1c27a7b0df02676938 WebDevelopment_2024/html-css-course-master/final/06-Components
+63d3eac904b2596bf799d7d1603d8687a28d400d WebDevelopment_2024/html-css-course-master/final/06-Components/01-accordion.html
+327dbf1fec9b558d505808a9fe2330efef57b565 WebDevelopment_2024/html-css-course-master/final/06-Components/02-carousel.html
+479ef139233aae4522fa6a6416179fd376ce298b WebDevelopment_2024/html-css-course-master/final/06-Components/03-table.html
+de1a49dbd04c4ac1efd625841c1639d150898f3e WebDevelopment_2024/html-css-course-master/final/06-Components/04-pagination.html
+1ca4fc38ef00b8a2fc48c1ad2994704ca8dc3825 WebDevelopment_2024/html-css-course-master/final/06-Components/05-hero.html
+224fb99762f8abd2cd765a0d0cc7a27b5df3bdbc WebDevelopment_2024/html-css-course-master/final/06-Components/06-app-layout.html
+f069bd6b4f24b2d825e12ad4438c4365eddf88d2 WebDevelopment_2024/html-css-course-master/final/06-Components/component.html
+26f1847c87d4cd10b20e35d5c46f16018677e687 WebDevelopment_2024/html-css-course-master/final/06-Components/hero.jpg
+33fe230b9440376a67a731c7bafa92ae98110f09 WebDevelopment_2024/html-css-course-master/final/06-Components/maria.jpg
+850574430f9d52792bcb4fac85a65595583d381e WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop
+f3437b7d5b0a24582dda9643a83c6c3b8f0b2d3e WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop
+092b60a6ef8fce5ed224f41edb407d507d821b4d WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/content.md
+3554cdbca79ad90eac304fdf48dc52a9a06ded89 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img
+92263d88c20a4f0ae7d66e66a8c2bffe75e09033 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img
+58dee3f46cf4fddff4d0a271f13d84ed724b5bf0 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/app
+945acffa24c8ba1192e82589a14e5c9c68adee74 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/app
+15b0a19e0d4433caea12ecf8d6c7cb905621e001 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/app/app-screen-1.png
+787da0239ab589e3006a6726462fdeaf7686f48e WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/app/app-screen-2.png
+72b57f387b273fbbfc5c22316b08df43bebe35a9 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/app/app-screen-3.png
+6949a027123c66bfd192cbc4090faebe939e3348 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/customers
+d582490fa76c14cf1b02f0e82acd6f15919c39dc WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/customers
+47266ea3a6e70789d4d9a137d0bb0a90dce3f6a5 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/customers/ben.jpg
+d0754c3640036756bcab31a0175f85b612a7c321 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/customers/customer-2.jpg
+20ba92aa226e697ce25b848a43be48111a813b38 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/customers/customer-4.jpg
+db5771e368a19d613a321199950317f5c651794c WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/customers/customer-5.jpg
+f8b85c672824dee3e47013ec702bd9354ee65111 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/customers/customer-6.jpg
+ea609573a1ae64628727ae48b98d5ae65bedda69 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/customers/hannah.jpg
+25dc72affbea5800d856456d7926e52b16d92779 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/customers/steve.jpg
+b5013f476b945e6b59b36aaff547400888dccc13 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/eating.jpg
+8ccd18fdd39f9976fff2730abe791133a4de49a1 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/favicon.png
+c403cb7e45b4658bcf6826f60b04f3f38444e613 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery
+e732430b76ad52cf9fd119fe268b88d19422fc20 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery
+4d3328aa651a4fe18a3ee41c9783c543c487cc59 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery/gallery-10.jpg
+c6f42b3370b692f25056935fbe2cc366d547e07c WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery/gallery-12.jpg
+e6a2e9aeb37b28039cf637590a9ba0cc691ee9f6 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery/gallery-2.jpg
+0da8bec74fc8d8ed15f4d1b7928aecb8ed976652 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery/gallery-3.jpg
+a2e9ac42da91d4f892a6d430373e6a0e3161fcaa WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery/gallery-4.jpg
+99d7e8c97ef4cda8d5a5ab8924d8e6bd9af7dd67 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery/gallery-5.jpg
+0806cee7830f1c13f18275c5842688eab558beda WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery/gallery-6.jpg
+bba5502df32ace9f92b49cfe124690fb97305587 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery/gallery-7.jpg
+7653df7cfbc1067cf05be20dff05899503577677 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery/gallery-8.jpg
+96a380d41be92bf24f8a29c91923ef84b37887d1 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/gallery/gallery-9.jpg
+0beb65f7774db8010ac92a4fc163ab6ddfb0fcec WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/logos
+7c71335979e5b3cd45c646014b132bc61d988d9b WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/logos
+d8974ff231aa2d5e4027d526314d3ab48bfd9ac4 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/logos/business-insider.png
+9d7dbfa1845027da005afbc1adc99a9538ec68d1 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/logos/forbes.png
+a9149aa4fd5e564cd54e10d780158064444b4e43 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/logos/techcrunch.png
+d4a65036782f5885ca14c874d9b4d699f86da76f WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/logos/the-new-york-times.png
+935434ac32b9b477e5ae3a40270b130bf3ae3e3f WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/logos/usa-today.png
+119a29efd09a460e100924712be948f37ac38647 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/meals
+0a9f5621fb4833d9bb94c1021b27d87f042f60e0 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/meals/meal-2.jpg
+2232b2efac2f38b756a91583367530add62f9fc0 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/img/omnifood-logo.png
+7cf37a8b0280ca2558e282ca78626af631f6fa35 WebDevelopment_2024/html-css-course-master/final/07-Omnifood-Desktop/index.html
+25f15e6a777168a9751c0f69563c879dbddf6b73 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive
+5a76660e1253add0c3b88b476fed1665c5ab8dfb WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive
+d0797c6deb3a3a5fda493692d591560c1e1aba2c WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/css
+4e8cb7052bbf6c14d50a8ad359a5cc5ef3bab717 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/css/general.css
+5f0cf28202a95165740d49626953394fca4eb484 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/css/queries.css
+cc82b4fcfdd6403d7023cd265365692d8e6c2bdf WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/css/style.css
+91a52337971a4be5bb7a6be3beef65955eb643f0 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img
+f59da7c4a84439dfbe44b6afdd4c3d7d8d99b0e2 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img
+c174b959b6e1c4e02b45af2b1bf5a35b9b444415 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img/.hero.png.icloud
+b7f0aa9f8109c8daccfc8170041431809ea8758a WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img/app
+061cae923db7811fb25c97f19c0cf2878373ffa6 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img/customers
+a9876e524f0f8a3d93737d50c655e27773a5beeb WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img/customers
+d6d808294e1c2acd9495aea4cd877435c6ace214 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img/customers/dave.jpg
+d0bc753d81f9f596ec85bf9b2a0cc9134dcae3f1 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img/gallery
+b64352847af5327883ad2715354b5dbea5aaf996 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img/logos
+d599be829c83f4c2ca411c5874b27761785fe8f4 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img/logos
+2cb09b91eae5af2d9c18842789e9ebfb0fc46f11 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img/meals
+51bc22fa5c3161dc55225ecc6e717f69223fb98f WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img/meals
+5793458989e1888eaeea2f21d8a52935ebf2c6ae WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/img/meals/meal-1.jpg
+6d69f1bab47d51756e87c843edb8c147638a6e94 WebDevelopment_2024/html-css-course-master/final/08-Omnifood-Responsive/index.html
+42422ae2b117594d8f1f293f1ecf957ebafa6bea WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations
+a7839073a6af6558e57b6ae559d6792797f122f1 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations
+1fc8146561ab5dfdd98ed54bfaf0e7ae64c0baaa WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/css
+f668b5e879e7605f7a80e4ab5b0b57cf790ed47d WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/css
+4961d5063f12d263eae721a4f509e7793f8212b8 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/css/general.css
+ecdbb416c42e5aee06fd12d6a44470521ab30db3 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/css/queries.css
+50258bd0e90b45e8757cfe66b767eff76ee7a7ea WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img
+575dc84dca521c6fef68b9873f9f25185224f5d2 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img
+a99814098ae2994e48c4cf17ae7623b3a7c27d7f WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/apple-touch-icon.png
+aa646eef4c5fe0fbe60fcfa1134491b739a7ed03 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/customers
+fee04c348ebc373cc1dcaa9524581e1c62b15d14 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/customers
+9c861c810c8dbc408af6b946692019b4818c1aae WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/customers/customer-1.jpg
+1519d098af55080e17044c1499a3f97d31dbc11d WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/favicon-192.png
+1f8becd81ab7e72164dfa9e40749c8b42dbfbc5a WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/gallery
+dbcb306790bd2f30719aad43880f867a9ef86549 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/gallery
+6c50e9ba652a3f7a6fd08f313a5dfcb1279eebd0 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/gallery/gallery-1.jpg
+c42a3bc4cb961832457bf833c138ad0acdae8efd WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/gallery/gallery-11.jpg
+5ab2bfc03c61e544585f403e21ec434deb421caa WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/hero-min.png
+0852d4c1dc8dcbf7adefe76560988d2775918dc8 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/hero.png
+120fb8517ebbeac476f7ba54ecd5e8ae253920e2 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/hero.webp
+08912fed6795a2da95df49aa1ce373d88f3d57ed WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/logos
+713679ddac20ba0a51926393930b442ec0d794ee WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/img/logos
+3e226d306d7c982d6d6f65c0b068860d02ea1f2c WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/index.html
+0f5dd23a11563d15a14f1a3b0379c6ebca1281d4 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/js
+403f2a55db9d5e7212919dd332756c25715ebbb0 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/js/script.js
+270233703255de87559765545d91a3dade3bf406 WebDevelopment_2024/html-css-course-master/final/09-Omnifood-Optimizations/manifest.webmanifest
+265b77c11e67552e3a0b741ed3428bb0b0a6c29c WebDevelopment_2024/html-css-course-master/starter
+ab2556516af1135d7a9277265b0e8e32095f740e WebDevelopment_2024/html-css-course-master/starter
+29acd318af8a37e7ccfbc8acf3c2017d5e0bc025 WebDevelopment_2024/html-css-course-master/starter/02-HTML-Fundamentals
+8b8c9079c8772d2f92303ef4cf03eb0f1b39bb6c WebDevelopment_2024/html-css-course-master/starter/02-HTML-Fundamentals
+10da5b114035a69c41c2025ea5ae0840543ba28d WebDevelopment_2024/html-css-course-master/starter/03-CSS-Fundamentals
+f07c47120fe7a6a5c0e775798b6420b2b73f1983 WebDevelopment_2024/html-css-course-master/starter/03-CSS-Fundamentals
+1e46deda9dc9df62f761c1da0d4801bc31096869 WebDevelopment_2024/html-css-course-master/starter/03-CSS-Fundamentals/img
+2f5f07749026201dff25792189728917733f7c79 WebDevelopment_2024/html-css-course-master/starter/03-CSS-Fundamentals/img
+91e1ed4b08b83828da3985bb8f4707421d55343a WebDevelopment_2024/html-css-course-master/starter/04-CSS-Layouts
+bed7157d271e308d78ecb33471ba7dda2f77bcca WebDevelopment_2024/html-css-course-master/starter/04-CSS-Layouts
+496ef372adabe4246a901e4036ae0ce7aa8cd962 WebDevelopment_2024/html-css-course-master/starter/04-CSS-Layouts/flexbox.html
+be5564513ed72de4de1578ad4833ec5233d61eee WebDevelopment_2024/html-css-course-master/starter/04-CSS-Layouts/img
+15ecbeb77e9d6dd21df93156ae2b2194a3dfd77c WebDevelopment_2024/html-css-course-master/starter/04-CSS-Layouts/index.html
+c879e79d237318b7add9ae2115cf65541ccc473b WebDevelopment_2024/html-css-course-master/starter/04-CSS-Layouts/style.css
+8d68ab0f81b61554bd04787ac4b0b282051017d5 WebDevelopment_2024/html-css-course-master/starter/05-Design
+c0e882088c4e584aefdc8747cef76c9c26c08d22 WebDevelopment_2024/html-css-course-master/starter/05-Design
+92b74fd481bfa4fe6e00a499c998d5c3c4fde86b WebDevelopment_2024/html-css-course-master/starter/05-Design/index.html
+77dfdffa334d5aa4771b143a32060c8896da98a8 WebDevelopment_2024/html-css-course-master/starter/05-Design/style.css
+2a3c89cf706c0831a95f2dd89497fead8c494ba7 WebDevelopment_2024/html-css-course-master/starter/06-Components
+2df39f90199af82b5af18d7021d205298234adf8 WebDevelopment_2024/html-css-course-master/starter/06-Components
+2e8d72b69c7fe1bffe207ccbae5f8d2f069aeffb WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop
+a23e91c702a0c955366af7d047fdc0b3abc3d17b WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop
+b71ee971cd3726d709f57fc5def487b8c687d0bf WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content
+ec6c46321b1e8b95b9153c36c2269f56d43bfa66 WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content
+7193e017fd2af9841e7fa40e8ccd71917c5b777a WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content/content.md
+5b2967064d09b33b02281e030efc53614ae22015 WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content/img
+765cf5fd94a28bc4970e1e596c43de661a170bb2 WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content/img
+5024a33cb6b787a654de23f6296561a9a888fe7f WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content/img/app
+c300d4f46e7b1c889b15aa117cd457b35831f4b7 WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content/img/customers
+dbf792970d8514f10b2d5474f0f5e15704476da9 WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content/img/customers
+6367b537b0d6e12b2ddbdd4f8779db9725f52090 WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content/img/gallery
+f6f2839e8f3380366f40a43d9ea5cf41c37d1eb7 WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content/img/gallery
+21e9804c0d49628d769189c9242e3bf4cc2ceb7f WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content/img/logos
+d42594570c123ffd62e8994bfcbe0b0ad21a06fc WebDevelopment_2024/html-css-course-master/starter/07-Omnifood-Desktop/content/img/logos
+4f8dadf888d7e062ee2080072330f3102f791b95 WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive
+9fc47ca1d2c7d4d969bda19c4d2e23a675780830 WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive
+1e142d957f201de66fddf926e524b512d5fc8948 WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/css
+746643d180ab1404dfcecc1fc13a47199dd807cc WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/css
+879f58295a0abf502b7a74ac4359e707e7abd164 WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/css/general.css
+dde886185dbb372c4af4e892cb1423dadd339c8e WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/css/style.css
+9dc104ec45fce850f5f92700b68660a768ef4a56 WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/img
+db1bc89cbe4711d0eb9ce1aa9b5b8449f49befe2 WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/img
+36af7018178093b6358399f57c258f9fa4adc74e WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/img/app
+a78998f15ccaa48923c54254198961981ddda0f6 WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/img/app
+899ee2de3c8f008f81619f04863c78bb51b46396 WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/img/customers
+fc4e6a69a89049d296ccb074c062aba9ff18d525 WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/img/customers
+2b7e7dcc8f111a0e9a8094d5573b9aadd4134772 WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/img/gallery
+f6411ad297e1b06938db565fa65d56f6d0c7f344 WebDevelopment_2024/html-css-course-master/starter/08-Omnifood-Responsive/img/gallery
+5700c4f8e6c0960bccb6c6d9cf1af3f5c65b144d WebDevelopment_2024/html-css-course-master/starter/09-Omnifood-Optimizations
+76cef0ae2591eefacf4146a7bfac62b9b320610e WebDevelopment_2024/html-css-course-master/starter/09-Omnifood-Optimizations
+23127c167054dcc9bf08a573dad748ddac5bdd96 WebDevelopment_2024/html-css-course-master/starter/09-Omnifood-Optimizations/css
+6c30678d17ba80dad43abc07e7e6b255edb4b952 WebDevelopment_2024/html-css-course-master/starter/09-Omnifood-Optimizations/css
+61bfc2803441ac7e4bdafeca8a2536dfa9975818 WebDevelopment_2024/html-css-course-master/starter/09-Omnifood-Optimizations/img
+6a397cd55c2c1ce03e30c495f44db6faa22f37fb WebDevelopment_2024/html-css-course-master/starter/09-Omnifood-Optimizations/img
+721677152440d64df02868acbee552f353f3a83b WebDevelopment_2024/html-css-course-master/starter/09-Omnifood-Optimizations/img/customers
+7d107b7a21fd40cb686570779459e53e3ad3bf0c WebDevelopment_2024/html-css-course-master/starter/09-Omnifood-Optimizations/img/gallery
+982d9614c77aa1b3950ab8abe1344297fe8e26e2 WebDevelopment_2024/html-css-course-master/starter/09-Omnifood-Optimizations/img/gallery
+7b997724416ad768ed3c028b328cde08abd96e69 WebDevelopment_2024/html-css-course-master/starter/09-Omnifood-Optimizations/script.js
+86916c36c8b77e91302615347dd0ae2626b3a0a5 WebDevelopment_2024/html-css-course-master/vscode-setup.md
+a8a0a43ab5fdbadd4729a999ffeb52d3eb83efe9 Web_Development
+c51f0189ec0693f75c1dc9366fdf521d1004906d Web_Development
+3b85ed92da7d8e75a0e3ce9a0945e296bed9aa19 Web_Development/2.1 Heading Element
+c4564690d140e5436ad24fc9708359dcd0ad7d47 Web_Development/2.1 Heading Element
+e6cf3f28a042ba59884a6984b25451b254e269d4 Web_Development/2.1 Heading Element.code-workspace
+57aa1ef67a45ec4ca866212c95622d224f723579 Web_Development/2.1 Heading Element/3.0 List Elements
+9e3c54d04a84dd5ae7fa7b9f72dc997026ee2e8f Web_Development/2.1 Heading Element/3.0 List Elements
+2a1a23d8d9fd2e27d43b051e943d13ef14dd5e66 Web_Development/2.1 Heading Element/3.0 List Elements/goal.png
+2312607f3314608325d83745dba2873775786c30 Web_Development/2.1 Heading Element/3.0 List Elements/index.html
+4f4285e23626d16297e061caee8f89f2c7c2ee0f Web_Development/2.1 Heading Element/3.0 List Elements/solution.html
+ee740fbfaaa9bbfe09076f3da86df0ab3661be32 Web_Development/2.1 Heading Element/demo.html
+562d9c06ecd6eaf85ab4ae37aa4131c815e36c2c Web_Development/2.1 Heading Element/goal.png
+b2316f937630f5c1dcf3cf8291691dede640684a Web_Development/2.2 Paragraph Element
+fc209822b6f77cbf21fed06939c2822f53259f57 Web_Development/2.2 Paragraph Element
+07ae64e1ad9ab12388343929f7f34898463c5d0d Web_Development/2.2 Paragraph Element/goal.png
+e01c7168077c90026a267fcc04cab075fc9fb86b Web_Development/2.2 Paragraph Element/index.html
+c88b2378b56ed97321cfc2d0cc1a7c144ce86b4c Web_Development/2.2 Paragraph Element/solution.html
+6df7ac806c9c41484a4a9e11686f5bd56aa0ff2e Web_Development/2.3 Void Elements
+b81fd0bca29ce3f59a13ec244694e7edf308fb1d Web_Development/2.3 Void Elements
+81d8ea718640479e35e521972a7564d997692904 Web_Development/2.3 Void Elements/index.html
+23af11d4c997fbac8108c3f553230cabc3c3273d Web_Development/2.3 Void Elements/solution.html
+e992873b62abd67dcfb9d3fe9b0a3140d11d3992 Web_Development/2.4 Movie Ranking Project
+b210b04904e78a7f51a9a1f00e15054cc767863f Web_Development/2.4 Movie Ranking Project/goal.png
+c13ba002fa708113984ef7fb15b9147417bb8ce3 Web_Development/2.4 Movie Ranking Project/index.html
+025748ee5bc584774a89d0f014c2e036bd33e62b Web_Development/2.4 Movie Ranking Project/solution.html
+21ade6cbd3f20cdc377eb7cb9ad6fc9ee91090a2 Web_Development/3.1 Nesting and Indentation
+7c6066c3ff065c6eb70559af114a981e4a6ebfc5 Web_Development/3.1 Nesting and Indentation/goal.png
+6c4103429f1c37af58927c1dc292a7664989f66a Web_Development/3.1 Nesting and Indentation/solution.html
+878559cf7c6c1c23ac7dd37e7e614d7311ad453f Web_Development/3.2 Anchor Elements
+d43882b8e2f6145ddf0f551820b0a407dd1b3a27 Web_Development/3.2 Anchor Elements
+751ba5e110c96a38a22dee1cc62ba27fd9653aae Web_Development/3.2 Anchor Elements/goal.png
+74037b17e4202ccc06f8914f4c06fcde33348684 Web_Development/3.2 Anchor Elements/index.html
+73e3111ed5f9e1b27fde5cddd7552b813ae6a829 Web_Development/3.2 Anchor Elements/solution.html
+5babbd0693b05292289abc32d36c0d78d0d03b40 Web_Development/3.3 Image Elements
+7378b248c447d67a12bd6c4a5e67ab5e44361981 Web_Development/3.3 Image Elements/goal1.png
+9c629f21e6f407b3da340b6726b578c293d441b8 Web_Development/3.3 Image Elements/goal2.png
+25684db901414a58334654756043cbf3adedcc09 Web_Development/3.3 Image Elements/index.html
+221ab1b9af498eb1e17cd24cde1b8e0d61c0fa71 Web_Development/3.3 Image Elements/solution1.html
+0b1837592daf6209158505eb4299a5143e3f19ea Web_Development/3.3 Image Elements/solution2.html
+6342c98bfa59ba3e2dfe93c883b069c139fa0731 Web_Development/3.4 Birthday Invite Project
+ad429e658042b6ad5d084b48086b7b0391f26b9d Web_Development/3.4 Birthday Invite Project
+14311d6bb35163a1d8d7f0c33f28ff8d1449ab5d Web_Development/3.4 Birthday Invite Project/goal.png
+65a11b0cea5c81b4ee7311a12d9c8bad73cde728 Web_Development/3.4 Birthday Invite Project/index.html
+4fccfb375aac117e75d6ff1e1920ff0db5f4c748 Web_Development/3.4 Birthday Invite Project/solution.html
+7dee28e98d49874794089d77bca39304ca6ff8f2 Web_Development/4.3 HTML Porfolio Project
+8340d373e698083dd84f60cdb3dc21fc318c54ff Web_Development/4.3 HTML Porfolio Project
+6a5a1dde2959f3006a0ac40df54db11d7a9a8599 Web_Development/4.3 HTML Porfolio Project/assets
+12b03033f2818a647f7064dbc1e02e6a5b74e471 Web_Development/4.3 HTML Porfolio Project/assets/images
+e634cbdcd32e6390ae271c612471be376e6221bf Web_Development/4.3 HTML Porfolio Project/assets/images/.birthday-invite.png.icloud
+18ecf30e6154ad7788be55190f2808b3132358e6 Web_Development/4.3 HTML Porfolio Project/assets/images/movie-ranking.png
+ba27d49c95af5802053cced5435bb8b5ce6d56c9 Web_Development/4.3 HTML Porfolio Project/index.html
+1eed127528e95045855b708a0bddb776076abe01 Web_Development/4.3 HTML Porfolio Project/public
+9d9f7c42849fee72976d07205242dfa138d88e8f Web_Development/4.3 HTML Porfolio Project/public
+59a920dbe373c5abc728044f6c1e498d61a98281 Web_Development/4.3 HTML Porfolio Project/public/about.html
+fc8b19f2d4a5cf942cf65958ff09731e6f25b223 Web_Development/4.3 HTML Porfolio Project/public/contact.html
+eb63fc6c0fd03a1864ca75c090b641aaa2e535a8 Web_Development/4.3 HTML Porfolio Project/public/movie-ranking.html
+0aed10ca9d8d42a8b778f7c053ed8eb36543fc92 Web_Development/4.3 HTML Porfolio Project/solution.html
+607cab6a4749a487958f4f3ab672f8780822e659 Web_Development/5.1. Adding CSS
+4341def93f18e0dcc498f8d400ed339d07f90e48 Web_Development/5.1. Adding CSS/Solution
+5ed42e43ecee90262f0b5dbe9e694a163088854b Web_Development/5.1. Adding CSS/Solution/external.html
+82092256c3584a4258e0df784692796d39689a47 Web_Development/5.1. Adding CSS/Solution/inline.html
+bc6b98225c8c956cce6644edd134addf19fdef0d Web_Development/5.1. Adding CSS/Solution/internal.html
+eb897c6f79ac9cb3844a664acf7501bd52105b6d Web_Development/5.1. Adding CSS/Solution/solution.html
+6345fd322800365251865e2adc27f5b83c8796ff Web_Development/5.1. Adding CSS/Solution/style.css
+6f47ef27a23a909de5b045a697aba774f1b08dbd Web_Development/5.1. Adding CSS/external.html
+c2c08697fc297b8d6431fef69ce3ff21c66cea54 Web_Development/5.1. Adding CSS/index.html
+4e5c9de814c00d1b84c8ed2ac892c093f41f7048 Web_Development/5.1. Adding CSS/inline.html
+1908c8466134940b10ce8c63136e44f560fa2910 Web_Development/5.1. Adding CSS/style.css
+3ccd444b8752271015a3ca5b2acb5d3f211c09e9 Web_Development/5.3 CSS Selectors
+be93b9258cffa9b24adc16f5414d31cf80f132cf Web_Development/5.3 CSS Selectors
+f90148260c9de0812c05b56246439f1b4cccacd1 Web_Development/5.3 CSS Selectors/goal.png
+1814ddf9f9143871830d61a9b153333e17a5f56e Web_Development/5.3 CSS Selectors/index.html
+2803ca46a6aac5715014ed63cf8d3dc032c52bc2 Web_Development/5.3 CSS Selectors/solution
+33b7b85df53ed55cfc1fc14a0fbd8f86d61b4e0c Web_Development/5.3 CSS Selectors/solution
+9003b49bc966abb91e252aab9a4758d5e364a57a Web_Development/5.3 CSS Selectors/solution/solution-style.css
+4b3e31739382449bd4100627a63ff52bd493b555 Web_Development/5.3 CSS Selectors/solution/solution.html
+205c3f899bd12623013344f55f241cacdc1e8ba2 Web_Development/5.3 CSS Selectors/style.css
+c1db4be5f09e89b29d2f7ad7db58a80ce4df606c Web_Development/5.4+Color+Vocab+Project
+de5909d189308e787b7455377a68794f3150ae40 Web_Development/5.4+Color+Vocab+Project
+aba74cfb195e442064e822994add99474e327ca9 Web_Development/5.4+Color+Vocab+Project/assets
+f4654175e78312f13f653573306e2b586f050d10 Web_Development/5.4+Color+Vocab+Project/assets
+4345f523f55cc8febdbbd12085f8f87153ec408c Web_Development/5.4+Color+Vocab+Project/assets/images
+6e40b1a2875ba33a90c4251ef57a5d58f5536961 Web_Development/5.4+Color+Vocab+Project/assets/images
+e8f1d8cb1ab637702ed354b24cf8c1ae8574ca4c Web_Development/5.4+Color+Vocab+Project/assets/images/blue.png
+5664b3e983f8c83e7d9bba05be450e5189fe0b91 Web_Development/5.4+Color+Vocab+Project/assets/images/green.png
+81114c24c97c0a8dcf33998bf02674655233175e Web_Development/5.4+Color+Vocab+Project/assets/images/orange.png
+dbf8175b848dadcc2185f23d6f4971f87ca1bb5b Web_Development/5.4+Color+Vocab+Project/assets/images/red.png
+f1263693162bfe0d0fbeffdc4b145070ed99722a Web_Development/5.4+Color+Vocab+Project/assets/images/yellow.png
+42cb59fff3bdefb897929fbcf835a65bc1027556 Web_Development/5.4+Color+Vocab+Project/goal.png
+af6582838294fdb9c855b6774ce9568364951bea Web_Development/5.4+Color+Vocab+Project/index.html
+40cafbcf5135e16d7daeb8cf8c6b53b12d71dc81 Web_Development/5.4+Color+Vocab+Project/solution
+c7e310999be391369c7a802df75ef5f296d49b48 Web_Development/5.4+Color+Vocab+Project/solution
+799420366cda21fcf39f3c9f7995e0d2e2d065e9 Web_Development/5.4+Color+Vocab+Project/solution/assets
+dbe47139183338a9d74db1ff7134f63272427200 Web_Development/5.4+Color+Vocab+Project/solution/assets/images
+cd34fc1173481c870abd5d53b8817f04cbb6b21d Web_Development/5.4+Color+Vocab+Project/solution/solution.html
+184ab0ca59d8c3cad6ca9fb0bff14cd265772f56 Web_Development/5.4+Color+Vocab+Project/solution/style.css
+a0787caf730c02275906a48a0b6bd817422cad18 Web_Development/Web Dev Syllabus.pdf
+26db34959a84ab9d3262bae0dc0384f6dfbfa67c Web_Development/javascript
+773c2e1d58089398fda8ea627b2a0e43f0762ac1 Web_Development/javascript
+18635d076e693dde9f804f8a4a4e0099cd7dd330 Web_Development/javascript/complete-javascript-course-master 2
+41339e563d889778069156b778e2f846d15eb057 Web_Development/javascript/complete-javascript-course-master 2
+4b036b6bc9e6fa1aa6b25ff05a8439af00b16ab1 Web_Development/javascript/complete-javascript-course-master 2/01-Fundamentals-Part-1
+1f949859cb58ae1df5968877619048020e4aaac0 Web_Development/javascript/complete-javascript-course-master 2/01-Fundamentals-Part-1/final
+96fbc80614c4c80326532b3f22ed95ab7c1018e8 Web_Development/javascript/complete-javascript-course-master 2/01-Fundamentals-Part-1/final/index.html
+c966226c88bd2a0a4ff864e868bb902ff66916d4 Web_Development/javascript/complete-javascript-course-master 2/01-Fundamentals-Part-1/final/script.js
+a6198202fe5c7683f911ea0becd8c29a418904c0 Web_Development/javascript/complete-javascript-course-master 2/01-Fundamentals-Part-1/starter
+d7ccd9f1748f578731fb745c9ca66647afc36b88 Web_Development/javascript/complete-javascript-course-master 2/01-Fundamentals-Part-1/starter/index.html
+4785b37c5650a7209b4c8126e12c251cfbf55ab3 Web_Development/javascript/complete-javascript-course-master 2/01-Fundamentals-Part-1/starter/script.js
+b44288c40c58591c03c34b4a37951db45bae93e2 Web_Development/javascript/complete-javascript-course-master 2/02-Fundamentals-Part-2
+122291f5c3fc28e65e015cee8fff00ee200af194 Web_Development/javascript/complete-javascript-course-master 2/02-Fundamentals-Part-2/final
+ee4909e28250b3db7af1992ff9cfbf3d7bc6f719 Web_Development/javascript/complete-javascript-course-master 2/02-Fundamentals-Part-2/final/index.html
+585df2f7ee701892133a2a5b83b64a71bb01610d Web_Development/javascript/complete-javascript-course-master 2/02-Fundamentals-Part-2/starter
+0a1545cb6e3a690bf05508dd9462ab6d55ae05da Web_Development/javascript/complete-javascript-course-master 2/03-Developer-Skills
+5788ca0da101785994bea53515377da28595c184 Web_Development/javascript/complete-javascript-course-master 2/03-Developer-Skills
+a6fe6bf27a24cc7c80b7038e506166329c51d53f Web_Development/javascript/complete-javascript-course-master 2/03-Developer-Skills/final
+dabb4fa940f79ededcf7fba5a612136a06ba29b9 Web_Development/javascript/complete-javascript-course-master 2/03-Developer-Skills/final
+b4f8e6a6a1c5e36ab87aede73216796288f18a6f Web_Development/javascript/complete-javascript-course-master 2/03-Developer-Skills/final/.prettierrc
+fe26bd2b093c58a9b903b84536c45f073e5b7650 Web_Development/javascript/complete-javascript-course-master 2/03-Developer-Skills/final/index.html
+eceaebbc72da8c3d46db29fcc1231a35188e770f Web_Development/javascript/complete-javascript-course-master 2/03-Developer-Skills/final/script.js
+f1698fce6e51070207fca8986f1a1b1b173bfd7c Web_Development/javascript/complete-javascript-course-master 2/03-Developer-Skills/starter
+7e095a0976f319ccf6687fe072cd4708f7b21dfa Web_Development/javascript/complete-javascript-course-master 2/04-HTML-CSS
+2031dfa7112e8fee2b5acc0b05c6a507e81f3694 Web_Development/javascript/complete-javascript-course-master 2/04-HTML-CSS/final
+d9730f2116f1f9ae2258dafa44e88c13e4d2561b Web_Development/javascript/complete-javascript-course-master 2/04-HTML-CSS/final/style.css
+00083063fa1065d83d399cfe2876a39df0cb8528 Web_Development/javascript/complete-javascript-course-master 2/05-Guess-My-Number
+9060ad6b8cf6e3622019bf2b35434cf468dfdd2f Web_Development/javascript/complete-javascript-course-master 2/05-Guess-My-Number
+5232f347902c7aeafdd1ae3c060819b19086dc49 Web_Development/javascript/complete-javascript-course-master 2/05-Guess-My-Number/final
+a8af69150034da8c10e46b76a3a847497cd89e4d Web_Development/javascript/complete-javascript-course-master 2/05-Guess-My-Number/final
+b25c17540af27065b4a9cdbdea3bd59b92f38097 Web_Development/javascript/complete-javascript-course-master 2/05-Guess-My-Number/final/index.html
+8ca1e15c348c0786af4b68d51ca23e058c592b32 Web_Development/javascript/complete-javascript-course-master 2/05-Guess-My-Number/final/script.js
+dfed55a3200fabc12fb0a4499db1cbbf1591f890 Web_Development/javascript/complete-javascript-course-master 2/05-Guess-My-Number/final/style.css
+88ef0e9f91f61725d34eaeb664817854106c1258 Web_Development/javascript/complete-javascript-course-master 2/05-Guess-My-Number/starter
+ad9a93a7c160f02945911772460eb8a1bcb003db Web_Development/javascript/complete-javascript-course-master 2/05-Guess-My-Number/starter/script.js
+84f23d9cd140415fcc84863ecb6a097d2727bd75 Web_Development/javascript/complete-javascript-course-master 2/06-Modal
+ce23f7ee21d64e22c405ac627505d8f443d10d5d Web_Development/javascript/complete-javascript-course-master 2/06-Modal
+3cbe2c1e66d0626e0554e1fa2451abbc3b5a8c5d Web_Development/javascript/complete-javascript-course-master 2/06-Modal/final
+46e7174f92343697f7641a7d408178dffbcb0e4c Web_Development/javascript/complete-javascript-course-master 2/06-Modal/final
+cb0458612bc5bd336d710ed526d52c08225f62e9 Web_Development/javascript/complete-javascript-course-master 2/06-Modal/final/index.html
+bc4028350e44ebca19984361bae4e09b5a11ca26 Web_Development/javascript/complete-javascript-course-master 2/06-Modal/final/script.js
+47c6861f1e568ef86e79e60479a96fe5073227b3 Web_Development/javascript/complete-javascript-course-master 2/06-Modal/final/style.css
+65c00499b5a580fe04abda4295f81601b3bedafa Web_Development/javascript/complete-javascript-course-master 2/06-Modal/starter
+90aa33e9c5849c8cccf7ae1192d485c70380a275 Web_Development/javascript/complete-javascript-course-master 2/06-Modal/starter
+1d91b3d7c35e0e582227ddd26ccd2c2c57f181ba Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game
+7b87b6be8907225c05692937d0fc8f8589d3ffe9 Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game
+0547c930ebfa4eb9a1c86906823dcc698e43e002 Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/final
+69130d9c5c9448df8bd215a0eec5d7f423a3a551 Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/final
+0d911ca113940240e5170af5f35f7251481d0df0 Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/final/dice-1.png
+f3c32af4453fbcf7f79895a7a565d0a5cea951bf Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/final/dice-2.png
+e3ef2b5c334e81d4bca8587d898f66633233d204 Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/final/dice-3.png
+b4b41e34332707fd15ec24ba21e5962f46561d9d Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/final/dice-5.png
+6f4d9b38900e9a8a5c678f821e3b817d62736286 Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/final/dice-6.png
+f72c8f4e92bdca0ef0cec01ac85324cf8830ccb0 Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/final/index.html
+aa191032be32e0e79c2f9bb4248b3011a95d4ea3 Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/final/script.js
+555ea263e0120838140f8c1ba5bdedcbffe4b673 Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/final/style.css
+cc8ecbe70cb18d7df48dbfe15b5b9592e4aee518 Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/starter
+0c785f753e9edb1d846f726e2e7de1a2eebd7441 Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/starter/dice-4.png
+2e51a84f36f48cc11dad489bc65e35ac74bbeecd Web_Development/javascript/complete-javascript-course-master 2/07-Pig-Game/starter/pig-game-flowchart.png
+5588112e746269321bb7d677f1dad35f079d3a00 Web_Development/javascript/complete-javascript-course-master 2/08-Behind-the-Scenes
+e579734a2d7fce0429130daed3968b8ea30ef409 Web_Development/javascript/complete-javascript-course-master 2/08-Behind-the-Scenes
+3ade6f3bc90557a8ff686951bde74a256c21ff8f Web_Development/javascript/complete-javascript-course-master 2/08-Behind-the-Scenes/final
+7bd55f4ef03e249f24024770d544125a2b817da2 Web_Development/javascript/complete-javascript-course-master 2/08-Behind-the-Scenes/final/index.html
+6a9596f6141e9f3870091b4f55a603d47e35329b Web_Development/javascript/complete-javascript-course-master 2/08-Behind-the-Scenes/final/script.js
+ce38dda8f8ef212d739cc47120d7d074224dbbfb Web_Development/javascript/complete-javascript-course-master 2/08-Behind-the-Scenes/starter
+11207205f0e4884e24053c9754d4dc6f0171767e Web_Development/javascript/complete-javascript-course-master 2/09-Data-Structures-Operators
+a5c5ef07bd7242af8a759fd9ce8cd974d0606f5b Web_Development/javascript/complete-javascript-course-master 2/09-Data-Structures-Operators
+8513acf34a12b96c201b337d6893ff552e7ee37f Web_Development/javascript/complete-javascript-course-master 2/09-Data-Structures-Operators/final
+7d248b95f536e50c7954cc9adb93320c687eaa18 Web_Development/javascript/complete-javascript-course-master 2/09-Data-Structures-Operators/final/index.html
+05394f1759bd862f04f8b081d433a82c51f0ddb3 Web_Development/javascript/complete-javascript-course-master 2/09-Data-Structures-Operators/final/script.js
+45b3f6af162c474b1626037a08691e0c2b8f474f Web_Development/javascript/complete-javascript-course-master 2/09-Data-Structures-Operators/starter
+63e60af7ae0ed450ec3fd014886d029c1697ce8f Web_Development/javascript/complete-javascript-course-master 2/09-Data-Structures-Operators/starter
+2cc0fea5a0a248fe9f260aa9e6c1dd4e2aa2076b Web_Development/javascript/complete-javascript-course-master 2/09-Data-Structures-Operators/starter/script.js
+9c56d3a2749b738d9c94f82908580fb1072a3bb6 Web_Development/javascript/complete-javascript-course-master 2/10-Functions
+d4fecd9df8f043085c8efc92e5edef5977a5ab95 Web_Development/javascript/complete-javascript-course-master 2/10-Functions
+3b8ea32c8d0e23a0655edac14d0a525aa419ebed Web_Development/javascript/complete-javascript-course-master 2/10-Functions/final
+5bbd21a14ff0530e3865150c326873328b2ebb6a Web_Development/javascript/complete-javascript-course-master 2/10-Functions/final
+5555734b8ab5d982adb81bb5846e9b6cf9dd25c3 Web_Development/javascript/complete-javascript-course-master 2/10-Functions/final/index.html
+aa2292ad3010eb9be4032dade19399da4025afeb Web_Development/javascript/complete-javascript-course-master 2/10-Functions/final/script.js
+a7dcdb40671844a0e62d62b4430bc8c7a27c9396 Web_Development/javascript/complete-javascript-course-master 2/10-Functions/starter
+1e547c9a05704b6bd26581398f0800c7c75df3f0 Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist
+d0935f8928365a80764a241773dcf76f7d47ee0d Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist
+0d9371219bbd1d0eced0db15907bc9e987b87b67 Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist/final
+a9b20616f13834771df03b222d7040f0afddfc3e Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist/final
+6a46971703531d3791db3923cd0da16d84156417 Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist/final/index.html
+f437ac24f35cd445f8c0a73df19f55459b32ef58 Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist/final/logo.png
+158408d26d560375b485ed093642b510dc0c5b4f Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist/starter
+8b7be72cca4e6192c2783f86d7a6038897c7fa0f Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist/starter
+6b4bfd48b195646fa0da18e25fbb0fd98dc69db2 Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist/starter/Bankist-flowchart.png
+d00606eab8f67f3097add9414cdacfcfb810a38f Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist/starter/icon.png
+05b54ddf3199501b5dc51c7fc047620446c8f4d5 Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist/starter/script.js
+05dcf396188f8cdec8fea741ef0398ea3fe978a9 Web_Development/javascript/complete-javascript-course-master 2/11-Arrays-Bankist/starter/style.css
+844532fdf0397ce71e49aa01fd2561d01b2dd48c Web_Development/javascript/complete-javascript-course-master 2/12-Numbers-Dates-Timers-Bankist
+94caebb47d9b6224d161335520bf6f822db841ea Web_Development/javascript/complete-javascript-course-master 2/12-Numbers-Dates-Timers-Bankist
+501eee4648b5109560518132ceabf24fbc7a1717 Web_Development/javascript/complete-javascript-course-master 2/12-Numbers-Dates-Timers-Bankist/final
+eeb82b686c745b791fbe47681171483bc8499588 Web_Development/javascript/complete-javascript-course-master 2/12-Numbers-Dates-Timers-Bankist/final
+7c4923c3ef6017bbdac0bbfd4329a259ccd0adf9 Web_Development/javascript/complete-javascript-course-master 2/12-Numbers-Dates-Timers-Bankist/final/Bankist-flowchart.png
+63f7cc08109189c5bdc5f69c2cfce89282e94f0b Web_Development/javascript/complete-javascript-course-master 2/12-Numbers-Dates-Timers-Bankist/final/script.js
+c18b809b0537538e9907bfea15c063f4dd60bad2 Web_Development/javascript/complete-javascript-course-master 2/12-Numbers-Dates-Timers-Bankist/starter
+c94697f73c118a3a817c3451fd054fd2d259aa88 Web_Development/javascript/complete-javascript-course-master 2/12-Numbers-Dates-Timers-Bankist/starter
+7fd35920a2081c5e9ae7a1a0c6664b4b6557d066 Web_Development/javascript/complete-javascript-course-master 2/12-Numbers-Dates-Timers-Bankist/starter/script.js
+b047de3f764863cbf15f91a63b88679b9862fe24 Web_Development/javascript/complete-javascript-course-master 2/12-Numbers-Dates-Timers-Bankist/starter/style.css
+1be29163a7e8bd9698ce68963a39237c0d00dfc0 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist
+48cb4c23d69f983a1990ddca52e3712b5e244681 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist
+5dd06e14789a7f2417f0f4010eb2dfab9f65f0aa Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final
+93159e19a5f57d9b4bf338c83181042f53b242aa Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final
+71c5d2d289657ae7ec6f426432aed11d1fcab89d Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img
+e8ce6fefe0388a93ccfc57b641e1a81dcf9f77c2 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img
+fa78f867567e64f76cef67401b70c3ac667a265b Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img/digital-lazy.jpg
+87a319b6f3ef0d2757f606b4c46dac200d30de53 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img/digital.jpg
+6055cdc1f71096a52e8ebef49677926254c047c8 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img/grow-lazy.jpg
+19e7f85dbffcaa9ef978f9d73bb8df2c78ca63a1 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img/grow.jpg
+964f65ba624d7523f0fab9538ce9e09a3695ec38 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img/hero.png
+9076bfd8b1edcb93fbba69e1512c9b5fa5c5e96e Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img/icons.svg
+af42481ce003ae50daf8c203c07b6bed0ec4f72a Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img/img-1.jpg
+beb70d6f7733756688c68f3974a0e1bf8bef727f Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img/img-4.jpg
+39b5de76f49700ff42832b87f28848d17c78e931 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img/logo.png
+3fd68e3bdc33c2f4fca03ae4729509299eadc219 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img/user-1.jpg
+a6b47fd123c36a97f3368bff2617063608ba6403 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/img/user-2.jpg
+7dc87c7d9be8033c1094320189aea6b85a99f137 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/index.html
+a0015c55ee14f9de73a376659b166a8665e1e69e Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/script.js
+caf3a4a635676f6e6437393c4a44b4001af4f1b5 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/final/style.css
+20693cbff7ad5377d4175a349c3beb624394531c Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/starter
+7d1b483ecef3f7df3bb4f4e43bac13be9a745387 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/starter
+049629aae0ed36034cb48dc4e80c96e0974f8181 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/starter/img
+ec07d9d6fc5957e44d93226e514245f4b51ac396 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/starter/img
+76a0a83b36e3203d30166da1dc6d138ba4a74c29 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/starter/img/.card.jpg.icloud
+56b1f167e8083ea08a7a93539c277afb14b96816 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/starter/img/img-2.jpg
+475c40d05c50b2992c5db1ca51366d64e2317c1e Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/starter/img/img-3.jpg
+c51ec0afbeea57a301f7bfa272051a3215bbdc43 Web_Development/javascript/complete-javascript-course-master 2/13-Advanced-DOM-Bankist/starter/script.js
+535a849a878b1a26a11f9482cdba994d41fc0933 Web_Development/javascript/complete-javascript-course-master 2/14-OOP
+89c470c3956a4e6b9e2e904144a0bb7b695e0bcf Web_Development/javascript/complete-javascript-course-master 2/14-OOP
+8c417d0dec582221b1c5ed8792133116b6b90101 Web_Development/javascript/complete-javascript-course-master 2/14-OOP/final
+1d3f550d6d050910a3eed91232d84ef3328e05c6 Web_Development/javascript/complete-javascript-course-master 2/14-OOP/final/index.html
+8b5a22ec1873fc4dfd6bc48f0b4ade1311accc66 Web_Development/javascript/complete-javascript-course-master 2/14-OOP/starter
+a1441650e6e718d158b25707bf14fecc8a7e6eb3 Web_Development/javascript/complete-javascript-course-master 2/14-OOP/starter
+9a9e17a1ce74b5b150705a12de22f2f896984439 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty
+e104080b426a2ed885b6906926de5f4b41e29385 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty
+40be7a08f92d852a824785ed682f37c61ec6bce5 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/final
+97d9c99a70b7444132f6f2898cbf03574f507010 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/final
+56ad00c1133998b1a6f6295674867dca6ff23f96 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/final/Mapty-architecture-final.png
+9e2159e83c75bebfda01f8ec4a79f475aaad7372 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/final/Mapty-architecture-part-1.png
+c0f24c002e5f726c033356bb71e1ca2ae10e5d3e Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/final/Mapty-flowchart.png
+d2f503119a2c0b9b822188a99c5f81983c480900 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/final/icon.png
+134a9dd712a6327327dee328f85c05ff5e4d7804 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/final/index.html
+50a9cba8ee7158507e58cad7df10be11f3da1324 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/final/logo.png
+ae83f31a4d3bd1e6bfc8098d009f6004092fdc39 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/final/other.js
+1a9bbd11478593052825ac62a664530f33deca04 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/final/script.js
+5388f646f4794edefd31c856b24dfddb88f1ef3d Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/final/style.css
+a831fa242dfeb0c8f01e2fb41d4343ce50d8a0cc Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/starter
+b2db472f961543c96d9948b568fc37e07cfbbcc5 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/starter
+234c87fb55c446a1494290653cb13817958e0d6d Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/starter/index.html
+9ba12287f87fc4d687a7323f558bf8c821d1f6a6 Web_Development/javascript/complete-javascript-course-master 2/15-Mapty/starter/script.js
+3de270b8d82ed2ca77ea211eb7a5ad298109bfc1 Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous
+c1f965ca2ebb22f504b51527acb30616c065af17 Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous
+9c663ed08c5bccb723a263a6e2615866a84b032e Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/final
+b1db6bca4e499deedd0f3c91d84ae12d4c53aadd Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/final
+6953b75eaede3e3187db3526d906502e8f34f2d0 Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/final/img
+9627ba5572daf1a053f99334c7b17ce77c2f5c85 Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/final/img/img-1.jpg
+70cb723446ea7cc1a163ce520940e9d68c98ee51 Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/final/img/img-2.jpg
+45d23a3081f8f1a4a76d9bb4fa534623dc2204f0 Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/final/img/img-3.jpg
+2b0e434dd3cf1f805a326eda93cb7be6a17b7d90 Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/final/index.html
+2dbf6adba1d76fc65a8e33b66a82af53124d0e58 Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/final/script.js
+6a10dac8b6060346be50d6b15c25fb4582220222 Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/final/style.css
+0bdc0924e31f0ead2b2c887418e23f19d5a89926 Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/starter
+94833ba4ebccf0362737df04047dd082d2fa8ba7 Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/starter
+5747e9c42d6c124a903a86665e24057b3d8cf6cd Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/starter/img
+47bd2e81bab055095ddf9e41fd972a5ca61d3c6b Web_Development/javascript/complete-javascript-course-master 2/16-Asynchronous/starter/script.js
+2976f067af69dd2521e9f45eb068cead530eece8 Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling
+817a1df460831ed1d0e4e531fffd7242892b536b Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling
+5fe91660750c5d7dffa00e5b7f892a815310526a Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final
+751ded6f353695f9fb86e3389324641756126d81 Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final
+08842b48f1d59c35ea3422725e2b8a42870d9118 Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/clean.js
+194c4242896226a3e0ae686b0fcda571e0504a0b Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/dist
+41e9807b48ad7cc991e83ca55f91da35b10b836b Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/dist
+a58cbb6307bfd47586d828ca05336fe6622ffcba Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/dist/index.html
+bb62101ac52434c39dd6ae952bdaf90cf5078e86 Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/dist/index.js
+4fbba16dc9b72fb3883c3135ed448cdd909d6e96 Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/dist/index.js.map
+585da9bea4aac3512815d998042550d3ab960fea Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/dist/script.0b6e4fd3.js
+5b026633a73b1eb493c03d6eb73160fd645f52c8 Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/dist/script.0b6e4fd3.js.map
+5b22e3be47a0c81bc2e1f90bd35589f2c6dd1cb7 Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/dist/script.75da7f30.js
+c4b1f3c98e895e1e653cddfb4247c20a79871c3c Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/dist/script.75da7f30.js.map
+dc3f5b51da1fb1a490d96b69345bfe2d9c9eccd8 Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/package.json
+19bac447ee1ab3bdd84a42951e2cfa79f9b6eae8 Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/script.js
+ac2358f9781e32a0e093a9402bc8ecc00c8404ec Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/final/shoppingCart.js
+d58badabc2613f97a95fc9420c07f69f3822ce08 Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/starter
+dffc5f18c12a0488bea8c2909cb4fb30ff09df71 Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/starter
+d2853cb5ee5a1a33e3f5afee6e135af744a7cb6f Web_Development/javascript/complete-javascript-course-master 2/17-Modern-JS-Modules-Tooling/starter/index.html
+89ae433b72a7e0ef7cf83c8153ba3965fe10d3b9 Web_Development/javascript/complete-javascript-course-master 2/18-forkify
+9cfd4c388e7f9ef2556a3f647ba208ae216aab99 Web_Development/javascript/complete-javascript-course-master 2/18-forkify
+07734b7e0d7cc7841ac6c944762225534d09309e Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final
+b9c67db9e3c0abf7a18e9ecd09a594a7dcfa1ca2 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final
+51738c4f8d5634ef7a0ead67897bbf030844918c Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/.gitignore
+eca172f89f825127f0d8e12e45b21961044cea83 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/README.md
+f7a15e152ac76bd7a26d65aab0da6011c3d089dd Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/package.json
+9fa0dc54662e7a7b11f1faf3347380069cd4b48a Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src
+f563d45ce409c55e2d4daf6a934a74635c5375e2 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src
+68d19145b8298285bea1f4b1c49cc5612e3ccb35 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/img
+e75f29cc28183c4b83ad6e9730918777df47fbe8 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/img
+3b81e4ce1169ffd904c3e3238c7a706ed91aca2e Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/img/favicon.png
+20e918a168df49c12b9ad48b884245b726af4d82 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/img/icons.svg
+88f27fb232a7e68fe8b7ae3315a05ca98b4478cc Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/img/logo.png
+04a65160875dcae1a78d5ede5fe4e94f99bb08f5 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js
+a57de18d88c6c643f11a18d2b38fec87adf9d379 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js
+6f07d9739ec6b90f367c5e536a009250ea61822b Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/config.js
+9e10cececd46381c64252067fee37ea5590ae4ac Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/controller.js
+62e0987135dd72a0f01a59ce99526a4fbac07072 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/helpers.js
+69451d827454330e29e886560cadc8321ae72da8 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/views
+e2c01a2959e61fbbfa88a8ae299563def20299a6 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/views
+847f6db070830d4144b96d9aa52c3544f8434ee8 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/views/View.js
+3609c385724d21c2cca627e8b63e6957e142274f Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/views/addRecipeView.js
+be66b7a509ce182e7ccc1c77d5d2cf743eccc1b6 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/views/bookmarksView.js
+7518b31bb65d8283e59a6a726addea0f943b4650 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/views/paginationView.js
+3acf57bf2e6ec0ce774bbcefc160e0cd4d9ffaef Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/views/previewView.js
+0d6f637cb7b9a8e13147bcc4ab9ecb01847f5dda Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/views/recipeView.js
+b28716ba7e59ee6f5d82fad9ef54208546a713bd Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/views/resultsView.js
+f4763efd91c8030bda6c03d4486f3b0287f1da7e Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/js/views/searchView.js
+dcc113d343c0f88021519bc4112c5c56d0fa9f1b Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/sass
+16dec6b1f29327ada0e058f5f37d898dc9cc6ab2 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/sass/_base.scss
+0054c62993f18b2e6a7db5aefe790ca6e3fb2f6d Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/sass/_header.scss
+f10c0086d93b19a1dfbd3c6b460d5500f15986a2 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/sass/_preview.scss
+b6e72fe6f8d2c3eda3a75f6cb7b7334950abf934 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/sass/_recipe.scss
+d724828532f1b441d07a8dc40644c266aecbe6a8 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/sass/_upload.scss
+aa5be961d0368289b4fb205f6f31c19f6aefe062 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/final/src/sass/main.scss
+4f041e25a24cb5d799794ca926573201b431472e Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter
+95a8f33962d90224b4848eda453686e4609c98da Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter
+7d042b3e6f4cd5a3547a3963c3a6b6f9977aa013 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/forkify-architecture-recipe-loading.png
+ac5d1a428e67904fa7970d4b3eebdb90536c5a3a Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/forkify-flowchart-part-1.png
+9336bc82ce3e80e0c7e8ecbb6e5431ec301cffab Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/forkify-flowchart-part-2.png
+d9a2c5963fbfbd0eb3ae3af95e94baace96cb9a5 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/forkify-flowchart-part-3.png
+5728e1b9bde3cdfc02c9d3680ad755abf296c8f0 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/src
+9d1b01e34e7885809d3197b05bcdabd7a5289a4d Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/src
+542778b0ca76927992666a2959f4d3eda4b98c9c Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/src/img
+a532fee846bc8f4dcce7e67a2a06ce80c6c7ac82 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/src/js
+09a0eb8c11cdd90e799468d2a977e56d3cb2aea8 Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/src/js/controller.js
+1af7fed3a958350cc66b38260215934da95d277f Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/src/sass
+d31728325e38be599df42d916c3ce6936937888d Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/src/sass
+e8f2105a81e4ad310dcc6937b3cfee69a56fd9cf Web_Development/javascript/complete-javascript-course-master 2/18-forkify/starter/src/sass/_searchResults.scss
+73de9681a15c43c82c14e167ec4b3104a56a150c Web_Development/javascript/complete-javascript-course-master 2/README.md
+3f7b626d654999371105aa983fb5564362c64b50 Web_Development/myfirstwebapp
+fbbe6fc2d135f907b0ff5ca4326c946339a8db66 Web_Development/myfirstwebapp
+e2084c46a078db6852c7c204471e31bb5f6a65e6 Web_Development/myfirstwebapp/.mvn
+08fc9142f9db464674cbec7b3945ec470418cf46 Web_Development/myfirstwebapp/.mvn/wrapper
+cb28b0e37c7d206feb564310fdeec0927af4123a Web_Development/myfirstwebapp/.mvn/wrapper/maven-wrapper.jar
+5f0536eb74343e6e1e0aa69e3aacbc51e015f97e Web_Development/myfirstwebapp/.mvn/wrapper/maven-wrapper.properties
+66df2854281f4cb6869e4830dd1a7abd1e946c18 Web_Development/myfirstwebapp/mvnw
+95ba6f54ac526de46248af840bab26f33f946b93 Web_Development/myfirstwebapp/mvnw.cmd
+d80719e1efbf3b2511ec96db12ff7ae86d32bf2e Web_Development/myfirstwebapp/pom.xml
+a18eabbc970b3c1ca7079b7328c7cb3a126c5518 Web_Development/myfirstwebapp/src
+c397d8440d7bc4527693d77414d12f45714e83d0 Web_Development/myfirstwebapp/src
+b4437143749e66a4a3287c484d624f8d8b1d8557 Web_Development/myfirstwebapp/src/main
+d77a3850dc40891c41b6aa345c60e350f8190ef6 Web_Development/myfirstwebapp/src/main
+a962ba621a8409340c160d8f074ff81c492f8ef9 Web_Development/myfirstwebapp/src/main/java
+b4b6462fc5fedab86309724edcf3b6fcdbc16420 Web_Development/myfirstwebapp/src/main/java
+035935f3f7d6b74ac0979a5f3de7b6b3a6c34e75 Web_Development/myfirstwebapp/src/main/java/com
+24c41367962a6939c20c7c21808141cf7c3cc01b Web_Development/myfirstwebapp/src/main/java/com
+56efa92555b7026afd8877b5dc4d8d04f877c237 Web_Development/myfirstwebapp/src/main/java/com/example
+5b32532e07cf63ef94f166d8f1eb7e067ad85e05 Web_Development/myfirstwebapp/src/main/java/com/example
+67faaacb22e0b0650bb684773de1eb9d565077ca Web_Development/myfirstwebapp/src/main/java/com/example/myfirstwebapp
+bd6d9ec943ca02ed426f3e4a75bf3e7765532800 Web_Development/myfirstwebapp/src/main/java/com/example/myfirstwebapp
+652d404c69addb01b8ff19b1eb3e539f6093692f Web_Development/myfirstwebapp/src/main/java/com/example/myfirstwebapp/MyfirstwebappApplication.java
+cb71ca448cecb16478710be44e411cdd4892afdf Web_Development/myfirstwebapp/src/main/java/com/example/myfirstwebapp/SayHelloController.java
+accab7e5e88b8d8dfbad76c1c4d11ea4d24d4a65 Web_Development/myfirstwebapp/src/main/resources
+d759017bdd58d4dbb360140bd126f90159542556 Web_Development/myfirstwebapp/src/main/resources/META-INF
+745ffc381eed393f9e7deacbd5d75841a51ab988 Web_Development/myfirstwebapp/src/main/resources/META-INF/resources
+51c51414f6ec8634c1a0492d40ec0e96a80feff9 Web_Development/myfirstwebapp/src/main/resources/META-INF/resources/WEB-INF
+51e84327270c630114883f54c8fe97fe5d8ffd24 Web_Development/myfirstwebapp/src/main/resources/META-INF/resources/WEB-INF/jsp
+50850703405e6b176b20040f18583d706c5f5c93 Web_Development/myfirstwebapp/src/main/resources/META-INF/resources/WEB-INF/jsp/sayHello.jsp
+71ed10e650cb8005d56b2e6319ec4fd100989f5f Web_Development/myfirstwebapp/src/test
+7e8762928994fbbe1747606a4908c9fe327feb12 Web_Development/myfirstwebapp/src/test/java
+a37696360120b93f0fda1d7fea784be87eb40808 Web_Development/myfirstwebapp/src/test/java/com
+167de86deddcb958bc0ebc8f05c3551aecdfba19 Web_Development/myfirstwebapp/src/test/java/com/example
+e4381d94904418b09dbc6d070757fba56959c286 Web_Development/myfirstwebapp/src/test/java/com/example/myfirstwebapp
+73377f190d6f2661b3654194dd0ab90328385698 Web_Development/myfirstwebapp/src/test/java/com/example/myfirstwebapp/MyfirstwebappApplicationTests.java
+4df8da2bcd6e07cf38c398f8093bc47ba5767bbf complete-javascript-course-master 3
+d3c93efb73928696ded72fad17f9bb8ba0dd2756 complete-javascript-course-master 3
+1a66d32fcf14c70e04bd6a14f0c6a8f9d83192e2 complete-javascript-course-master 3/01-Fundamentals-Part-1
+4e5d02ced108312588fb5ef6c92be5a4196aa481 complete-javascript-course-master 3/01-Fundamentals-Part-1
+f1cbd0507d4fcf1789cedbfa9d50673e7fd02efd complete-javascript-course-master 3/01-Fundamentals-Part-1/basic_practice.js
+ce40584da62768b881743f5b75f6c5b8d02586a8 complete-javascript-course-master 3/01-Fundamentals-Part-1/coding_challenge_1.js
+d83784b243a1e715f167cc37eba08760664b2071 complete-javascript-course-master 3/01-Fundamentals-Part-1/final
+55ff8825d4ff767fbf3e497ca1aeedae0695d4bc complete-javascript-course-master 3/01-Fundamentals-Part-1/starter
+a3754df346fa3db60757939812f4b7de7c0e3f89 complete-javascript-course-master 3/01-Fundamentals-Part-1/starter
+a31756826f88be79cfeb69e65507261f5b8fa85f complete-javascript-course-master 3/01-Fundamentals-Part-1/starter/form_practice.html
+37bef55c7fd2935cdb49e319912819b4e8edd901 complete-javascript-course-master 3/01-Fundamentals-Part-1/starter/index.html
+84a01b9af73f9341ded5684235afc2807273f28d complete-javascript-course-master 3/01-Fundamentals-Part-1/starter/objectpractice.js
+f155630f2afe03b9a6b0d6391ec329ebf255902a complete-javascript-course-master 3/01-Fundamentals-Part-1/starter/script.js
+1dcd092a2625ff7b72aa589e19604349ab7447a1 complete-javascript-course-master 3/02-Fundamentals-Part-2
+4dec068cffdfdeca3b4ad367da541e25782e225c complete-javascript-course-master 3/02-Fundamentals-Part-2
+0e4effbd075523673cdabd8e34b317b938b52912 complete-javascript-course-master 3/02-Fundamentals-Part-2/final
+8cee2087f76f2b6a574b89b2b66c5ddb5b877a3f complete-javascript-course-master 3/02-Fundamentals-Part-2/final/script.js
+2ae1f3b5bc12b7736c48794901f7e52fa282e654 complete-javascript-course-master 3/03-Developer-Skills
+87a7146c551beff095295da80ca2742032acde6b complete-javascript-course-master 3/03-Developer-Skills
+40a2e535fb6ffb908df2fa8eab0858ae71ebf7e9 complete-javascript-course-master 3/03-Developer-Skills/final
+afe6842c7995d80a6640b7ca1a7095a6544de68f complete-javascript-course-master 3/03-Developer-Skills/starter
+939b2a2446e614a1fae9e9087743d142abe00085 complete-javascript-course-master 3/03-Developer-Skills/starter/script.js
+19acba8dae0dccefd145219d9234dda3ac866f36 complete-javascript-course-master 3/04-HTML-CSS
+66d7648122eac8aab1f5a6099779d99d74e4dd1c complete-javascript-course-master 3/04-HTML-CSS/final
+da7d3f055b55bdbce7de293248a710d76c1861fe complete-javascript-course-master 3/04-HTML-CSS/final/index.html
+4e410ee3b0182d1b587ee7ae23767f0b43f26d33 complete-javascript-course-master 3/05-Guess-My-Number
+d1aed0e8f3cc0441950cdce56a0d41c910f71d8d complete-javascript-course-master 3/05-Guess-My-Number
+f4a71fab07242606dbe749e36c640afa94b59556 complete-javascript-course-master 3/05-Guess-My-Number/final
+f2677661c8ade9849f9179fce3b40977b73231f5 complete-javascript-course-master 3/05-Guess-My-Number/starter
+39e3b34ee90213f86a6cde14d37dbf243c7f9093 complete-javascript-course-master 3/06-Modal
+1760491b558099a3b1853fcf4dcebae982dc7116 complete-javascript-course-master 3/07-Pig-Game
+3326c49289883817820b068bcf4e1ad17bc429b0 complete-javascript-course-master 3/07-Pig-Game
+3700afff5f22586a274fadf629a227f4c2709384 complete-javascript-course-master 3/07-Pig-Game/final
+6c335b493318a6870503e370723dc9f0312234cc complete-javascript-course-master 3/07-Pig-Game/final
+07873c2ba83739b66be7470185df000247db8ef7 complete-javascript-course-master 3/07-Pig-Game/starter
+2b06022f1f7c9a33a75af5d5ee6f4ab3854669f5 complete-javascript-course-master 3/07-Pig-Game/starter
+dcf788f011bd44a668f24cc4f20d63a877543c9e complete-javascript-course-master 3/07-Pig-Game/starter/style.css
+42bb6263f7737d1f6ab3d5dc9e249e0031544714 complete-javascript-course-master 3/08-Behind-the-Scenes
+80473dcf0d84534a51bd6576fb5a43a213b99f85 complete-javascript-course-master 3/08-Behind-the-Scenes
+4735c1ba38024d5a5e89c12ad161443bc2ba5335 complete-javascript-course-master 3/08-Behind-the-Scenes/final
+b501364af6408610f4bb418445894c97c4c77c6c complete-javascript-course-master 3/08-Behind-the-Scenes/starter
+3cb31f4512bf667267fc5b17fdaf2b12d89d092a complete-javascript-course-master 3/09-Data-Structures-Operators
+7815b3627aa5b298469759654148d7fe3024f476 complete-javascript-course-master 3/09-Data-Structures-Operators/starter
+86e2ad2752a2a2355d7a51b585024d5981b9f893 complete-javascript-course-master 3/10-Functions
+9d9d9182cbfff41acb9a2f2d6298e1becf2b9c7a complete-javascript-course-master 3/10-Functions
+3ed8b3f7d94c20ced62434c92ecd246560247322 complete-javascript-course-master 3/10-Functions/final
+edb17e95196bb08296e8fc1d4b593ca2a20a7bf8 complete-javascript-course-master 3/10-Functions/final
+ca31bbc3a91870df60ee0229b07a1b8e8e646ab0 complete-javascript-course-master 3/10-Functions/starter
+2d78414149c0a42d36e32d6a7e8f06579348844e complete-javascript-course-master 3/11-Arrays-Bankist
+70638184f91c2f1d86fb3636126b02cc299f511f complete-javascript-course-master 3/11-Arrays-Bankist
+6c68f5549f5add69cd1a6f9d5e9b7a7084a64d7a complete-javascript-course-master 3/11-Arrays-Bankist/final
+7ed30f81748dc5e54988f3153ba40334ddea8581 complete-javascript-course-master 3/11-Arrays-Bankist/final
+51aecced51a9ee1474950b5dc6a3fec6af3fe297 complete-javascript-course-master 3/11-Arrays-Bankist/starter
+d01a4b8adfc533cbef51bfc61d496f3a88259a6e complete-javascript-course-master 3/12-Numbers-Dates-Timers-Bankist
+f52fc78edf7bec3362729eba65fad507ee06924d complete-javascript-course-master 3/12-Numbers-Dates-Timers-Bankist
+3b2cb1afe8295528b56570e1aade90aebce25f28 complete-javascript-course-master 3/12-Numbers-Dates-Timers-Bankist/final
+e306cafaaa56a5135bedf71216c971fcd004bf92 complete-javascript-course-master 3/12-Numbers-Dates-Timers-Bankist/final
+a90b340352831212b5a0ecf8f166fd3ffcc32296 complete-javascript-course-master 3/12-Numbers-Dates-Timers-Bankist/starter
+27413afa131c0978136850162261bbe888652281 complete-javascript-course-master 3/13-Advanced-DOM-Bankist
+5eed8bd63b2db669c72bae1750fefde2eaa912f0 complete-javascript-course-master 3/13-Advanced-DOM-Bankist
+53893aad99f6160be5bb62eac619b931791b1f4b complete-javascript-course-master 3/13-Advanced-DOM-Bankist/final
+cc0d3ad1a7107a52fab20a2833d1d3733f7ead77 complete-javascript-course-master 3/13-Advanced-DOM-Bankist/final
+332e266ff6eb64effcdd7f44947e8f0bc582da7d complete-javascript-course-master 3/13-Advanced-DOM-Bankist/final/img
+a9e04418e7d348f8030418bd77bcc63057eca7ba complete-javascript-course-master 3/13-Advanced-DOM-Bankist/final/img
+367e2f9256431f1dd30ce3b56e314cb4143937b3 complete-javascript-course-master 3/13-Advanced-DOM-Bankist/final/img/card-lazy.jpg
+7980f017edf293c50428832174cd24711dc3ae00 complete-javascript-course-master 3/13-Advanced-DOM-Bankist/starter
+bfd8c7286771100d30425053abcc1c730090b3ba complete-javascript-course-master 3/13-Advanced-DOM-Bankist/starter
+1353a32526634d24135bc65a24055202586f8ec2 complete-javascript-course-master 3/13-Advanced-DOM-Bankist/starter/img
+fb383bb44fce036575fbed2709147f998bde383e complete-javascript-course-master 3/13-Advanced-DOM-Bankist/starter/img
+6999b1ccefbe77f37d4046ff4a84e1f0434a59dc complete-javascript-course-master 3/13-Advanced-DOM-Bankist/starter/index.html
+779e57fbe0915fdd54b47c27140374c8976c9c85 complete-javascript-course-master 3/14-OOP
+ec49fb2a5e9fb2b80ad0b7b7da71b820813e67ef complete-javascript-course-master 3/14-OOP
+c3326e1a006c5f75719ceba7a1d24b09f401bbb8 complete-javascript-course-master 3/14-OOP/final
+15fe8639199585fdc0847c6d5f2938e7d9f992ed complete-javascript-course-master 3/14-OOP/final/script.js
+44da54e359128bfef03d8af3e813231f752e3b4c complete-javascript-course-master 3/14-OOP/starter
+9d35384d1de2ef4d2c3e7f6bb15a472c88dd3a84 complete-javascript-course-master 3/15-Mapty
+d0e19afc22ffa3e8c3c6417fca96d9032aba3ace complete-javascript-course-master 3/15-Mapty
+2482c7090d1cdbdf455f35d9b6acece869353ef3 complete-javascript-course-master 3/15-Mapty/final
+a2b7c24327adea6fec0c8435ba2069e0caa64bd0 complete-javascript-course-master 3/15-Mapty/final
+86fa2eddb71d61e8f40b32b8dd66638c01b62b7e complete-javascript-course-master 3/15-Mapty/starter
+9a8bad34887c9466b7bd6d857747d3552f1dd654 complete-javascript-course-master 3/16-Asynchronous
+d35f744c1f90aacf620f735a7c7f2445b4dce831 complete-javascript-course-master 3/16-Asynchronous
+9561767232c68cb46fa88c8e88b21f095da5e7e3 complete-javascript-course-master 3/16-Asynchronous/final
+1eacaaf8f819076068dd3d3f6b14ae4682a044fd complete-javascript-course-master 3/16-Asynchronous/starter
+3d74ef8948133a378b494e0e41e9f680f4e93029 complete-javascript-course-master 3/16-Asynchronous/starter
+4be2bf520461c419fee55c73729349dd30ac7689 complete-javascript-course-master 3/16-Asynchronous/starter/img
+ddcc0b54b7f7ddb5052f590efe44494c17c1e13c complete-javascript-course-master 3/17-Modern-JS-Modules-Tooling
+e9657e94844a58d959a0da0729146a449271135d complete-javascript-course-master 3/17-Modern-JS-Modules-Tooling
+868a83c3ab1d1efce8fedc1450975ecf65aae0f5 complete-javascript-course-master 3/17-Modern-JS-Modules-Tooling/final
+9514d535a840d13cca7b8f6534b0aaf96592e0f6 complete-javascript-course-master 3/17-Modern-JS-Modules-Tooling/final
+be7973bc55f75e0303a7ea73063cc640fd1a7489 complete-javascript-course-master 3/17-Modern-JS-Modules-Tooling/final/dist
+7f4fca25ec840b102b1e739e0aabc0ae1c45673d complete-javascript-course-master 3/17-Modern-JS-Modules-Tooling/final/index.html
+51a11382aa53b6af95331e6e67a303986c3abbba complete-javascript-course-master 3/17-Modern-JS-Modules-Tooling/final/package-lock.json
+0da90c607345889ac920199ecd4a209de381d3f3 complete-javascript-course-master 3/17-Modern-JS-Modules-Tooling/starter
+138d5c0a9a79754bdb428d46bc06aa44385b7a2d complete-javascript-course-master 3/17-Modern-JS-Modules-Tooling/starter
+2cdba90c3bdfa0196259c986184c52d33394ec99 complete-javascript-course-master 3/17-Modern-JS-Modules-Tooling/starter/clean.js
+17eb5e0db713a74dede565df1f5ea77d3702f69e complete-javascript-course-master 3/18-forkify
+282dbd1ef7ef0b09686d862566acc93cb72ac5b4 complete-javascript-course-master 3/18-forkify
+4f07062c4c1d5ea16ad2c0d447c781779e87b166 complete-javascript-course-master 3/18-forkify/final
+6d303a915831571096fb517db9a8709e1f312c05 complete-javascript-course-master 3/18-forkify/final
+184f85ad1dded50148c24a73bed1b8583989bc18 complete-javascript-course-master 3/18-forkify/final/index.html
+9bb41a9e1a621461e24f2d0dd5f329a1d701e02f complete-javascript-course-master 3/18-forkify/final/src
+c34553a58a9ed219f73e4c1e24c25d021ca02a8f complete-javascript-course-master 3/18-forkify/final/src
+1c5c12f5c6ac3aea4a062507ba876663529d383e complete-javascript-course-master 3/18-forkify/final/src/img
+1af8bed9cc39af4534b98ee21140251634e3358f complete-javascript-course-master 3/18-forkify/final/src/js
+55af803b0adad8deff99e6f840f37e8dda90d794 complete-javascript-course-master 3/18-forkify/final/src/js
+ea4de7e835bddc038e7fc7cc2af4c4c9bb90d0b6 complete-javascript-course-master 3/18-forkify/final/src/js/model.js
+f7adeed67d455203f164f541e1b66fbf5fb4a47d complete-javascript-course-master 3/18-forkify/final/src/js/views
+72bf586c44316b95498a0711f4f129c8acd6df2b complete-javascript-course-master 3/18-forkify/final/src/sass
+e4082bbb93b25fe9645782bbbb2f8e0e094a3379 complete-javascript-course-master 3/18-forkify/final/src/sass
+ab27d1c010c3e2630c67aec15df2ecdaa8e35d4c complete-javascript-course-master 3/18-forkify/starter
+b3b06c0e0b61f8a11533a8b8c78eaac7f7e53183 complete-javascript-course-master 3/18-forkify/starter
+0f977f51f725c33ba998fec35388655e539cd55f complete-javascript-course-master 3/18-forkify/starter/index.html
+a344b6914d77920c6c18e37d18e5e4ebef874b5d complete-javascript-course-master 3/18-forkify/starter/src
+df638838d4b817a79e30b9d9f1ece33d2a4eceb5 complete-javascript-course-master 3/18-forkify/starter/src
+3c1efade9b44d97eb898b16432efde9b0f958764 complete-javascript-course-master 3/18-forkify/starter/src/sass
+46969318250d45ff9c37afcda9e171ab1ed09ebf complete-javascript-course-master 3/18-forkify/starter/src/sass
+f8612eb9bcbff6c98b77bdbd2c22cd497e0d9b7b complete-javascript-course-master 3/18-forkify/starter/src/sass/_components.scss
+19ee1b4909e8a3914517838657d6e8def82f5d04 complete-javascript-course-master 3/linking_external.html
+3285dbe888b66534759a8d3b5353618a3681873e complete-javascript-course-master 3/linking_js.html
+8aabed3484cd1cd670838cf226b6ba51c54229c2 complete-javascript-course-master 3/sum.js
+96bba4c07b2a3ca5fc78bef96195fb90752c8d57 javascript practice
+d82e23f3886c0c23f2a348866c33fabc9ae61c9d javascript practice
+e3d889a98288ac928587cce31c21ca9dae08ea86 javascript practice/maximumandmin
+5a0be44467383662cc879a5864ed152b8064ef38 javascript practice/reversearray
+3a300deab9496b94f920af65723f97dc2f35288f javascriptprac
+8933a79250410fa7e5d5d0f84ed7a06ede7d30b1 javascriptprac
+15c7dfa9d88c6cfee5a45f37e305c1e29ac0ac2d javascriptprac/All_problems.txt
+d09e3795d05e6ebbce4a0d0dbeaf1ce7756dd549 javascriptprac/BMI_Calculator
+13cdccfa332f29fc65295b67421450778858b298 javascriptprac/BMI_Calculator/DOM_prac.code-workspace
+00620467ea5a1885276d1fcb8afc300c496ff3cf javascriptprac/DOM_prac
+efe8de5db4d728a894f2df98d5a36e26ce9b4179 javascriptprac/DOM_prac/Array_prac.js
+1b438a481e920e1d02e824bb6eaffd2b677df8b7 javascriptprac/DOM_prac/Array_practice.js
+582cde9700dcbd8402c3eabf942a501dca9536d9 javascriptprac/DOM_prac/DOM.js
+eb84dc93972c27f9fe895b99c329978b02524ad0 javascriptprac/DOM_prac/profile.html
+cc43e8288f05a270349cd5b2b463143b04f03b23 javascriptprac/Guess-my-number
+ec0faffe57dc5828a1542761e698843c8b5955bb javascriptprac/Guess-my-number
+3dfea0c5fe8e3bde270c2ee509d27a55fb74ff7f javascriptprac/Guess-my-number/style.css
+ee2e1207623132e52575cb8f09eec143dc41760a javascriptprac/checkSorted.js
+4930fd6a8bc4cb12e1ed9f1c6eb357306defc00e javascriptprac/checknumber.js
+42b6727a97b139f5ef23ea5b65856bd6e373f9d1 javascriptprac/every_prac.js
+cbd4b1f161e1ca1dc59886138fe3621c33db4caa javascriptprac/findElement.js
+c1857bab9c96dac2d1a13c4eb95f603b9a2da159 javascriptprac/first_even_number.js
+1ce4c72d501dd126d96957af625d6e93337257cd javascriptprac/guess_my_number_project
+78dafb11b2086969e91de67480a056817cb5d82f javascriptprac/guess_my_number_project/script.js
+86b7a0420cb093cb014d6d7942723def6b510580 javascriptprac/includes.js
+555f6b3999f132aba0bcbcb2d4a053cd1df3ea77 javascriptprac/leftRotation.js
+7fa76ef2926e191f409d37d23729c54de5ee2511 javascriptprac/map_prac.js
+337212137f80b83b4be334b478b2ec8e21d890cc javascriptprac/maximumandmin
+d6d74b5fa81876b0e5665f0ed6a16857b474d8e8 javascriptprac/practicals.js
+230d7bc40fdf825c363802d960314320a702961a javascriptprac/reduce_prac.js
+d6123a5383f702cbb97e6d069487af83bcc01486 javascriptprac/removeVowels.js
+8ac7532ab9d0265c7e70dbd8731690b3f17c6553 javascriptprac/reverseArray.js
+a47cd5e7665695dc58d3eb99a538ce0a4f555219 javascriptprac/rotateArray.js
+9d775230fe89ae8349efefa2f9744ff1d1176f96 javascriptprac/some_prac.js
+cfa22d1f1f360492d1899561e74d14d2d05a30a6 javascriptprac/sortArray.js
+8806c113233822a874ecb3882f13da67e8c12524 javascriptprac/sumoffirstnnumbers.js
+19529ddf8c6eaa08c5c75ff80652d21ce4b72f8c mvnw
+249bdf3822221aa612d1da2605316cabd7b07e50 mvnw.cmd
+25203ada56211c9f90f0c8c60a68592d4af70a4d my_portfolio_project.html
+c28e40a94915419d02e030e99875baec41c080cd pom.xml
+f8d1c782af8bd283c521eedcddec822a80ad166f practicearray.js
+b87cc56d33560432b42f0f42c63615bdec0478d0 src
+9f77459d3dde129734e62d5ba441fa960dbe0cf5 src/main
+85c0babe11c8e2920743e37798a0b31711f2abfe src/main/java
+b7fb9ed61468ca7a61f808f5bafadfca733cd446 src/main/java/com
+d5ce3dd384cb6429103ee397d8f14656791d3266 src/main/java/com/autocarepro
+a93b9d346fb33811ea2601e2cd84366745e6f8fe src/main/java/com/autocarepro/AutocareproApplication.java
+fe34f0d191e74bfdd7cdc25da0e06baf702157a4 src/main/java/com/autocarepro/model
+ba2613b12516a5a1cac70067e108a7a0825be6fb src/main/java/com/autocarepro/model/Customer.java
+ed64ebb0fce6055607106e8bc0ec2e5a07f1c8e9 src/main/java/org
+27e325fce4cefe2ee857ca9e28b8fd8bc422dbd4 src/main/java/org/example
+a02700ff988563f304a0b1dfd5c72adef6cab460 src/main/java/org/example/Main.java
+f1d13f13765484c782c54ae8761223a1274e6c5b src/main/resources
+cce7106bd3fa5c678094317724c37e9e8b89e3a0 src/main/resources/application.properties
+45c2ee0c0c3e7a24ec36b85b37aa2c312f10eaee src/test
+54dde962818caf40c58756a0b8bfe685be273b0d src/test/java
+2c33812217085f10b6b01ea98f89a10946b9383a src/test/java/com
+c98af14982b814983471ee149c125d342556159f src/test/java/com/autocarepro
+005fada01b4062c6da7679f0be1c3ccfa906c653 src/test/java/com/autocarepro/AutocareproApplicationTests.java
+307ae8c3b8373955dede1edd6f106fd9c57c6d31 webapplication
+c241cb46a24d3c38009dd947ab0a9520c6910295 webapplication
+87d6cc8c9255327818546187a2e178ad7e2dfb71 webapplication/.idea
+dc951a420602fd1d63bb3aece4cc728616f0678f webapplication/.idea
+69ace3f6affaf674f40a55887f3d6f3564afd626 webapplication/.idea/misc.xml
+dd6d5d594e7d013f82d425ed3739c9cd71fc8ba3 webapplication/.idea/modules.xml
+22bdd61005d1a2e4d0266206f893cb13d134ad4e webapplication/.idea/workspace.xml
+c90834f2d607afe55e6104d8aa2cdfffb713f688 webapplication/webapplication.iml
