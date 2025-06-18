@@ -20,4 +20,8 @@ public class VehicleService {
     public Vehicle saveVehicle(Vehicle vehicle){
         return vehicleRepository.save(vehicle);
     }
+
+    public List<Vehicle> findByMakeAndModel(String make, String model){
+        return vehicleRepository.findByMakeAndModel(make,model);
+    }
 }
