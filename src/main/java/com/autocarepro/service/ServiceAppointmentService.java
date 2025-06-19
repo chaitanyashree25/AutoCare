@@ -17,7 +17,7 @@ public class ServiceAppointmentService {
         return serviceAppointmentRepository.findAll();
     }
 
-    public ServiceAppointment saveAppointment(ServiceAppointment appointment){
-        return serviceAppointmentRepository.save(appointment);
+    public List<ServiceAppointment> saveAppointment(List<ServiceAppointment> appointment){
+        return serviceAppointmentRepository.saveAll(appointment);
     }
 }

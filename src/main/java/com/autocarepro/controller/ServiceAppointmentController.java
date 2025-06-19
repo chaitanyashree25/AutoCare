@@ -21,7 +21,7 @@ public class ServiceAppointmentController {
     }
 
     @PostMapping
-    public ServiceAppointment saveAppointment(@RequestBody ServiceAppointment serviceAppointment){
+    public List<ServiceAppointment> saveAppointment(@RequestBody List<ServiceAppointment> serviceAppointment){
         return serviceAppointmentService.saveAppointment(serviceAppointment);
     }
 

@@ -1,10 +1,12 @@
 package com.autocarepro.service;
 
+import com.autocarepro.dto.VehicleSummary;
 import com.autocarepro.model.Vehicle;
 import com.autocarepro.repository.VehicleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Service;
-
+import org.springframework.data.domain.Pageable;
 import java.util.List;
 
 @Service
@@ -13,15 +15,19 @@ public class VehicleService {
     @Autowired
     VehicleRepository vehicleRepository;
 
-    public List<Vehicle> getAllVehicles(){
-        return vehicleRepository.findAll();
+    public Page<Vehicle> getAllVehicles(Pageable pageable){
+        return vehicleRepository.findAll(pageable);
     }
 
-    public Vehicle saveVehicle(Vehicle vehicle){
-        return vehicleRepository.save(vehicle);
+    public List<Vehicle> saveVehicle(List<Vehicle> vehicle){
+        return vehicleRepository.saveAll(vehicle);
     }
 
     public List<Vehicle> findByMakeAndModel(String make, String model){
         return vehicleRepository.findByMakeAndModel(make,model);
+    }
+
+    public List<VehicleSummary> getAllVehiclesSummaries(){
+        return vehicleRepository.findAllVehicleSummaries();
     }
 }
