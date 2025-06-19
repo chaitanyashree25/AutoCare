@@ -1,10 +1,11 @@
 package com.autocarepro.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
+import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
+
+import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 public class Customer {
@@ -17,6 +18,11 @@ public class Customer {
     private String email;
     @NotBlank
     private String phoneNumber;
+
+
+    @OneToMany(mappedBy = "customer", cascade = CascadeType.ALL, orphanRemoval = true)
+    @JsonManagedReference
+    private List<Vehicle> vehicles = new ArrayList<>();
 
     public Customer() {
     }
@@ -38,6 +44,14 @@ public class Customer {
 
     public @NotBlank String getEmail() {
         return email;
+    }
+
+    public List<Vehicle> getVehicles() {
+        return vehicles;
+    }
+
+    public void setVehicles(List<Vehicle> vehicles) {
+        this.vehicles = vehicles;
     }
 
     public void setEmail(@NotBlank String email) {

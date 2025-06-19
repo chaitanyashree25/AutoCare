@@ -30,4 +30,12 @@ public class VehicleService {
     public List<VehicleSummary> getAllVehiclesSummaries(){
         return vehicleRepository.findAllVehicleSummaries();
     }
+
+    public List<Vehicle> searchByRegistrationNumber(String keyword){
+        return vehicleRepository.searchByRegistrationNumberContains(keyword);
+    }
+
+    public List<Vehicle> findByModelIgnoreCase(String model){
+        return vehicleRepository.findByModelIgnoreCase(model);
+    }
 }

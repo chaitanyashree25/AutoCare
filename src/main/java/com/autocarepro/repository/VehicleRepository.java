@@ -9,7 +9,7 @@
     import java.util.List;
     import java.util.Optional;
 
-    public interface VehicleRepository extends JpaRepository<Vehicle, Integer> {
+    public interface VehicleRepository extends JpaRepository<Vehicle, Integer> , VehicleRepositoryCustom{
 
         Optional<Vehicle> findByRegistrationNumber(String registrationNumber);
 
@@ -18,5 +18,8 @@
 
         @Query("SELECT v.make AS make, v.model AS model, v.registrationNumber AS registrationNumber FROM Vehicle v")
         List<VehicleSummary> findAllVehicleSummaries();
+
+        @Query(value = "SELECT * FROM vehicle WHERE registration_number LIKE %:keyword%",nativeQuery = true)
+        List<Vehicle> searchByRegistrationNumberContains(@Param("keyword") String keyword);
     }
 

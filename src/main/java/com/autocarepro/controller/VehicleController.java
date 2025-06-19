@@ -35,4 +35,14 @@ public class VehicleController {
     public List<VehicleSummary> getAllVehiclesSummaries(){
         return vehicleService.getAllVehiclesSummaries();
     }
+
+    @GetMapping("/searchRegistration")
+    public List<Vehicle> searchByRegistrationNumber(@RequestParam String keyword){
+        return vehicleService.searchByRegistrationNumber(keyword);
+    }
+
+    @GetMapping("/search/model")
+    public List<Vehicle> searchByModel(@RequestParam String model){
+        return vehicleService.findByModelIgnoreCase(model);
+    }
 }
